@@ -1,5 +1,7 @@
 # Executive Risk Briefing: German Credit Portfolio Analysis
 
+![Credit Risk Dashboard](Dashboard_Final.png)
+
 ## 1. Project Objective
 This analysis evaluates a credit portfolio consisting of 1,000 corporate and individual borrower records across 11 engineered financial and demographic features. The core goal is to isolate credit concentration risks, identify high-exposure demographic clusters, and establish statistical guardrails to optimize capital allocation for commercial lending operations.
 
