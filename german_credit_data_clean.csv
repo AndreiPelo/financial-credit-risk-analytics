@@ -1,0 +1,1001 @@
+Age,Sex,Job,Housing,Saving Accounts,Checking Account,Credit Amount,Duration,Purpose,Age Group,Risk Exposure Tiers
+67,Male,2,Own,Unknown,Little,1169,6,Radio/Tv,Senior,Low Exposure
+22,Female,2,Own,Little,Moderate,5951,48,Radio/Tv,Young Adult,High Exposure
+49,Male,1,Own,Little,Unknown,2096,12,Education,Middle-Aged,Medium Exposure
+45,Male,2,Free,Little,Little,7882,42,Furniture/Equipment,Middle-Aged,High Exposure
+53,Male,2,Free,Little,Little,4870,24,Car,Senior,High Exposure
+35,Male,1,Free,Unknown,Unknown,9055,36,Education,Middle-Aged,High Exposure
+53,Male,2,Own,Quite Rich,Unknown,2835,24,Furniture/Equipment,Senior,Medium Exposure
+35,Male,3,Rent,Little,Moderate,6948,36,Car,Middle-Aged,High Exposure
+61,Male,1,Own,Rich,Unknown,3059,12,Radio/Tv,Senior,Medium Exposure
+28,Male,3,Own,Little,Moderate,5234,30,Car,Young Adult,High Exposure
+25,Female,2,Rent,Little,Moderate,1295,12,Car,Young Adult,Low Exposure
+24,Female,2,Rent,Little,Little,4308,48,Business,Young Adult,High Exposure
+22,Female,2,Own,Little,Moderate,1567,12,Radio/Tv,Young Adult,Medium Exposure
+60,Male,1,Own,Little,Little,1199,24,Car,Senior,Low Exposure
+28,Female,2,Rent,Little,Little,1403,15,Car,Young Adult,Low Exposure
+32,Female,1,Own,Moderate,Little,1282,24,Radio/Tv,Middle-Aged,Low Exposure
+53,Male,2,Own,Unknown,Unknown,2424,24,Radio/Tv,Senior,Medium Exposure
+25,Male,2,Own,Unknown,Little,8072,30,Business,Young Adult,High Exposure
+44,Female,3,Free,Little,Moderate,12579,24,Car,Middle-Aged,High Exposure
+31,Male,2,Own,Quite Rich,Unknown,3430,24,Radio/Tv,Middle-Aged,Medium Exposure
+48,Male,2,Own,Little,Unknown,2134,9,Car,Middle-Aged,Medium Exposure
+44,Male,2,Rent,Quite Rich,Little,2647,6,Radio/Tv,Middle-Aged,Medium Exposure
+48,Male,1,Rent,Little,Little,2241,10,Car,Middle-Aged,Medium Exposure
+44,Male,2,Own,Moderate,Moderate,1804,12,Car,Middle-Aged,Medium Exposure
+26,Male,2,Own,Unknown,Unknown,2069,10,Furniture/Equipment,Young Adult,Medium Exposure
+36,Male,1,Own,Little,Little,1374,6,Furniture/Equipment,Middle-Aged,Low Exposure
+39,Male,1,Own,Little,Unknown,426,6,Radio/Tv,Middle-Aged,Low Exposure
+42,Female,2,Rent,Rich,Rich,409,12,Radio/Tv,Middle-Aged,Low Exposure
+34,Male,2,Own,Little,Moderate,2415,7,Radio/Tv,Middle-Aged,Medium Exposure
+63,Male,2,Own,Little,Little,6836,60,Business,Senior,High Exposure
+36,Male,2,Own,Rich,Moderate,1913,18,Business,Middle-Aged,Medium Exposure
+27,Male,2,Own,Little,Little,4020,24,Furniture/Equipment,Young Adult,High Exposure
+30,Male,2,Own,Moderate,Moderate,5866,18,Car,Young Adult,High Exposure
+57,Male,1,Rent,Unknown,Unknown,1264,12,Business,Senior,Low Exposure
+33,Female,3,Own,Little,Rich,1474,12,Furniture/Equipment,Middle-Aged,Low Exposure
+25,Male,1,Own,Little,Moderate,4746,45,Radio/Tv,Young Adult,High Exposure
+31,Male,2,Free,Little,Unknown,6110,48,Education,Middle-Aged,High Exposure
+37,Male,2,Own,Little,Rich,2100,18,Radio/Tv,Middle-Aged,Medium Exposure
+37,Male,2,Own,Little,Rich,1225,10,Domestic Appliances,Middle-Aged,Low Exposure
+24,Male,2,Own,Little,Moderate,458,9,Radio/Tv,Young Adult,Low Exposure
+30,Male,3,Own,Quite Rich,Unknown,2333,30,Radio/Tv,Young Adult,Medium Exposure
+26,Male,2,Own,Quite Rich,Moderate,1158,12,Radio/Tv,Young Adult,Low Exposure
+44,Male,1,Own,Little,Moderate,6204,18,Repairs,Middle-Aged,High Exposure
+24,Male,2,Rent,Moderate,Little,6187,30,Car,Young Adult,High Exposure
+58,Female,1,Free,Little,Little,6143,48,Car,Senior,High Exposure
+35,Female,3,Own,Little,Unknown,1393,11,Car,Middle-Aged,Low Exposure
+39,Male,2,Own,Quite Rich,Unknown,2299,36,Radio/Tv,Middle-Aged,Medium Exposure
+23,Female,0,Rent,Quite Rich,Little,1352,6,Car,Young Adult,Low Exposure
+39,Male,1,Own,Little,Unknown,7228,11,Car,Middle-Aged,High Exposure
+28,Female,2,Own,Moderate,Unknown,2073,12,Radio/Tv,Young Adult,Medium Exposure
+29,Male,1,Own,Unknown,Moderate,2333,24,Furniture/Equipment,Young Adult,Medium Exposure
+30,Male,3,Own,Little,Moderate,5965,27,Car,Young Adult,High Exposure
+25,Male,2,Own,Little,Unknown,1262,12,Radio/Tv,Young Adult,Low Exposure
+31,Male,2,Own,Unknown,Unknown,3378,18,Car,Middle-Aged,Medium Exposure
+57,Male,2,Free,Little,Moderate,2225,36,Car,Senior,Medium Exposure
+26,Male,1,Own,Unknown,Unknown,783,6,Car,Young Adult,Low Exposure
+52,Male,3,Own,Unknown,Moderate,6468,12,Radio/Tv,Senior,High Exposure
+31,Female,2,Own,Little,Unknown,9566,36,Radio/Tv,Middle-Aged,High Exposure
+23,Female,3,Own,Little,Rich,1961,18,Car,Young Adult,Medium Exposure
+23,Female,1,Rent,Little,Little,6229,36,Furniture/Equipment,Young Adult,High Exposure
+27,Male,2,Own,Little,Moderate,1391,9,Business,Young Adult,Low Exposure
+50,Male,2,Own,Unknown,Moderate,1537,15,Radio/Tv,Middle-Aged,Medium Exposure
+61,Male,3,Free,Little,Moderate,1953,36,Business,Senior,Medium Exposure
+25,Male,2,Own,Little,Moderate,14421,48,Business,Young Adult,High Exposure
+26,Female,2,Own,Little,Unknown,3181,24,Radio/Tv,Young Adult,Medium Exposure
+48,Male,2,Own,Unknown,Unknown,5190,27,Repairs,Middle-Aged,High Exposure
+29,Female,2,Own,Little,Unknown,2171,12,Radio/Tv,Young Adult,Medium Exposure
+22,Male,2,Own,Rich,Moderate,1007,12,Car,Young Adult,Low Exposure
+37,Male,2,Free,Little,Unknown,1819,36,Education,Middle-Aged,Medium Exposure
+25,Female,2,Own,Unknown,Unknown,2394,36,Radio/Tv,Young Adult,Medium Exposure
+30,Female,2,Own,Little,Unknown,8133,36,Car,Young Adult,High Exposure
+46,Male,1,Rent,Unknown,Unknown,730,7,Radio/Tv,Middle-Aged,Low Exposure
+51,Male,3,Free,Little,Little,1164,8,Vacation/Others,Senior,Low Exposure
+41,Female,1,Own,Little,Moderate,5954,42,Business,Middle-Aged,High Exposure
+40,Male,3,Own,Unknown,Little,1977,36,Education,Middle-Aged,Medium Exposure
+66,Male,3,Free,Little,Little,1526,12,Car,Senior,Medium Exposure
+34,Male,2,Own,Little,Little,3965,42,Radio/Tv,Middle-Aged,Medium Exposure
+51,Male,2,Own,Little,Moderate,4771,11,Radio/Tv,Senior,High Exposure
+39,Male,1,Own,Unknown,Unknown,9436,54,Car,Middle-Aged,High Exposure
+22,Male,2,Own,Little,Moderate,3832,30,Furniture/Equipment,Young Adult,Medium Exposure
+44,Female,2,Own,Unknown,Unknown,5943,24,Radio/Tv,Middle-Aged,High Exposure
+47,Male,2,Own,Quite Rich,Unknown,1213,15,Radio/Tv,Middle-Aged,Low Exposure
+24,Female,1,Rent,Moderate,Unknown,1568,18,Business,Young Adult,Medium Exposure
+58,Female,1,Own,Little,Little,1755,24,Vacation/Others,Senior,Medium Exposure
+52,Male,1,Own,Little,Little,2315,10,Radio/Tv,Senior,Medium Exposure
+29,Female,3,Own,Little,Unknown,1412,12,Business,Young Adult,Low Exposure
+27,Female,2,Own,Little,Moderate,1295,18,Furniture/Equipment,Young Adult,Low Exposure
+47,Male,2,Free,Moderate,Moderate,12612,36,Education,Middle-Aged,High Exposure
+30,Male,3,Own,Moderate,Little,2249,18,Car,Young Adult,Medium Exposure
+28,Male,2,Own,Little,Little,1108,12,Repairs,Young Adult,Low Exposure
+56,Male,2,Own,Little,Unknown,618,12,Radio/Tv,Senior,Low Exposure
+54,Male,2,Own,Little,Little,1409,12,Car,Senior,Low Exposure
+33,Female,1,Own,Unknown,Unknown,797,12,Radio/Tv,Middle-Aged,Low Exposure
+20,Male,2,Rent,Unknown,Rich,3617,24,Furniture/Equipment,Young Adult,Medium Exposure
+54,Male,2,Own,Rich,Moderate,1318,12,Car,Senior,Low Exposure
+58,Male,2,Rent,Little,Moderate,15945,54,Business,Senior,High Exposure
+61,Female,2,Own,Unknown,Unknown,2012,12,Education,Senior,Medium Exposure
+34,Male,2,Own,Moderate,Moderate,2622,18,Business,Middle-Aged,Medium Exposure
+36,Male,2,Own,Little,Moderate,2337,36,Radio/Tv,Middle-Aged,Medium Exposure
+36,Male,3,Rent,Unknown,Moderate,7057,20,Car,Middle-Aged,High Exposure
+41,Male,1,Rent,Moderate,Unknown,1469,24,Car,Middle-Aged,Low Exposure
+24,Male,2,Rent,Little,Moderate,2323,36,Radio/Tv,Young Adult,Medium Exposure
+24,Female,2,Own,Little,Unknown,932,6,Radio/Tv,Young Adult,Low Exposure
+35,Male,2,Rent,Little,Moderate,1919,9,Furniture/Equipment,Middle-Aged,Medium Exposure
+26,Male,2,Rent,Unknown,Unknown,2445,12,Car,Young Adult,Medium Exposure
+39,Male,3,Own,Little,Moderate,11938,24,Vacation/Others,Middle-Aged,High Exposure
+39,Male,3,Own,Little,Unknown,6458,18,Car,Middle-Aged,High Exposure
+32,Male,2,Own,Little,Moderate,6078,12,Car,Middle-Aged,High Exposure
+30,Female,2,Own,Unknown,Little,7721,24,Furniture/Equipment,Young Adult,High Exposure
+35,Male,2,Own,Quite Rich,Moderate,1410,14,Business,Middle-Aged,Low Exposure
+31,Male,2,Own,Moderate,Moderate,1449,6,Business,Middle-Aged,Low Exposure
+23,Female,2,Rent,Little,Rich,392,15,Education,Young Adult,Low Exposure
+28,Male,1,Rent,Little,Moderate,6260,18,Car,Young Adult,High Exposure
+25,Female,2,Own,Little,Unknown,7855,36,Car,Young Adult,High Exposure
+35,Male,2,Own,Quite Rich,Little,1680,12,Radio/Tv,Middle-Aged,Medium Exposure
+47,Male,2,Own,Unknown,Unknown,3578,48,Radio/Tv,Middle-Aged,Medium Exposure
+30,Female,3,Own,Unknown,Little,7174,42,Radio/Tv,Young Adult,High Exposure
+27,Female,2,Rent,Unknown,Little,2132,10,Furniture/Equipment,Young Adult,Medium Exposure
+23,Female,2,Own,Quite Rich,Little,4281,33,Furniture/Equipment,Young Adult,High Exposure
+36,Male,3,Own,Quite Rich,Moderate,2366,12,Car,Middle-Aged,Medium Exposure
+25,Female,2,Own,Little,Little,1835,21,Radio/Tv,Young Adult,Medium Exposure
+41,Female,3,Rent,Little,Unknown,3868,24,Car,Middle-Aged,Medium Exposure
+24,Male,1,Rent,Little,Unknown,1768,12,Furniture/Equipment,Young Adult,Medium Exposure
+63,Male,2,Free,Little,Rich,781,10,Car,Senior,Low Exposure
+27,Female,2,Rent,Unknown,Moderate,1924,18,Furniture/Equipment,Young Adult,Medium Exposure
+30,Male,2,Own,Little,Little,2121,12,Car,Young Adult,Medium Exposure
+40,Male,1,Own,Little,Little,701,12,Radio/Tv,Middle-Aged,Low Exposure
+30,Male,2,Own,Little,Moderate,639,12,Repairs,Young Adult,Low Exposure
+34,Male,3,Own,Little,Moderate,1860,12,Car,Middle-Aged,Medium Exposure
+29,Female,2,Own,Little,Little,3499,12,Car,Young Adult,Medium Exposure
+24,Female,2,Own,Unknown,Moderate,8487,48,Car,Young Adult,High Exposure
+29,Male,2,Own,Little,Little,6887,36,Education,Young Adult,High Exposure
+27,Male,1,Own,Little,Unknown,2708,15,Furniture/Equipment,Young Adult,Medium Exposure
+47,Male,2,Free,Little,Unknown,1984,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+21,Female,2,Own,Moderate,Unknown,10144,60,Radio/Tv,Young Adult,High Exposure
+38,Female,2,Own,Unknown,Unknown,1240,12,Radio/Tv,Middle-Aged,Low Exposure
+27,Male,2,Own,Rich,Unknown,8613,27,Car,Young Adult,High Exposure
+66,Male,1,Own,Quite Rich,Moderate,766,12,Radio/Tv,Senior,Low Exposure
+35,Male,2,Own,Unknown,Moderate,2728,15,Radio/Tv,Middle-Aged,Medium Exposure
+44,Female,1,Rent,Little,Rich,1881,12,Radio/Tv,Middle-Aged,Medium Exposure
+27,Male,0,Own,Rich,Rich,709,6,Car,Young Adult,Low Exposure
+30,Female,3,Own,Little,Moderate,4795,36,Radio/Tv,Young Adult,High Exposure
+27,Male,3,Own,Little,Little,3416,27,Radio/Tv,Young Adult,Medium Exposure
+22,Male,2,Own,Little,Little,2462,18,Furniture/Equipment,Young Adult,Medium Exposure
+23,Female,2,Own,Little,Unknown,2288,21,Furniture/Equipment,Young Adult,Medium Exposure
+30,Male,2,Own,Moderate,Moderate,3566,48,Business,Young Adult,Medium Exposure
+39,Female,2,Own,Little,Little,860,6,Car,Middle-Aged,Low Exposure
+51,Female,2,Own,Moderate,Unknown,682,12,Car,Senior,Low Exposure
+28,Male,2,Own,Little,Little,5371,36,Furniture/Equipment,Young Adult,High Exposure
+46,Male,2,Own,Rich,Unknown,1582,18,Radio/Tv,Middle-Aged,Medium Exposure
+42,Male,2,Free,Moderate,Unknown,1346,6,Radio/Tv,Middle-Aged,Low Exposure
+38,Male,2,Own,Little,Unknown,1924,10,Radio/Tv,Middle-Aged,Medium Exposure
+24,Male,2,Own,Little,Rich,5848,36,Radio/Tv,Young Adult,High Exposure
+29,Female,2,Rent,Rich,Moderate,7758,24,Car,Young Adult,High Exposure
+36,Male,3,Rent,Moderate,Moderate,6967,24,Business,Middle-Aged,High Exposure
+20,Female,2,Rent,Little,Little,1282,12,Furniture/Equipment,Young Adult,Low Exposure
+48,Male,2,Own,Moderate,Little,1288,9,Repairs,Middle-Aged,Low Exposure
+45,Male,1,Own,Little,Little,339,12,Education,Middle-Aged,Low Exposure
+38,Male,2,Own,Moderate,Moderate,3512,24,Car,Middle-Aged,Medium Exposure
+34,Male,1,Own,Unknown,Unknown,1898,6,Radio/Tv,Middle-Aged,Medium Exposure
+36,Male,2,Own,Moderate,Unknown,2872,24,Radio/Tv,Middle-Aged,Medium Exposure
+30,Female,2,Own,Little,Unknown,1055,18,Car,Young Adult,Low Exposure
+36,Male,2,Own,Quite Rich,Unknown,1262,15,Domestic Appliances,Middle-Aged,Low Exposure
+70,Male,3,Free,Little,Moderate,7308,10,Car,Senior,High Exposure
+36,Male,2,Own,Quite Rich,Unknown,909,36,Car,Middle-Aged,Low Exposure
+32,Male,2,Own,Quite Rich,Unknown,2978,6,Furniture/Equipment,Middle-Aged,Medium Exposure
+33,Female,2,Own,Little,Little,1131,18,Furniture/Equipment,Middle-Aged,Low Exposure
+20,Female,2,Own,Rich,Moderate,1577,11,Furniture/Equipment,Young Adult,Medium Exposure
+25,Female,2,Rent,Little,Unknown,3972,24,Furniture/Equipment,Young Adult,Medium Exposure
+31,Male,2,Own,Little,Moderate,1935,24,Business,Middle-Aged,Medium Exposure
+33,Male,2,Rent,Little,Little,950,15,Car,Middle-Aged,Low Exposure
+26,Female,2,Own,Little,Unknown,763,12,Furniture/Equipment,Young Adult,Low Exposure
+34,Female,3,Own,Little,Moderate,2064,24,Furniture/Equipment,Middle-Aged,Medium Exposure
+33,Male,2,Own,Little,Moderate,1414,8,Radio/Tv,Middle-Aged,Low Exposure
+26,Male,2,Own,Little,Little,3414,21,Education,Young Adult,Medium Exposure
+53,Female,3,Own,Unknown,Unknown,7485,30,Car,Senior,High Exposure
+42,Male,2,Own,Little,Little,2577,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+52,Male,2,Own,Quite Rich,Little,338,6,Radio/Tv,Senior,Low Exposure
+31,Male,3,Rent,Little,Unknown,1963,12,Radio/Tv,Middle-Aged,Medium Exposure
+65,Male,2,Own,Little,Little,571,21,Car,Senior,Low Exposure
+28,Male,2,Own,Little,Unknown,9572,36,Business,Young Adult,High Exposure
+30,Male,3,Own,Little,Moderate,4455,36,Business,Young Adult,High Exposure
+40,Male,1,Own,Unknown,Little,1647,21,Car,Middle-Aged,Medium Exposure
+50,Male,2,Own,Rich,Unknown,3777,24,Furniture/Equipment,Middle-Aged,Medium Exposure
+36,Male,2,Own,Little,Moderate,884,18,Car,Middle-Aged,Low Exposure
+31,Male,2,Own,Little,Unknown,1360,15,Radio/Tv,Middle-Aged,Low Exposure
+74,Female,3,Free,Little,Moderate,5129,9,Car,Senior,High Exposure
+68,Male,0,Free,Little,Moderate,1175,16,Car,Senior,Low Exposure
+20,Male,2,Own,Moderate,Little,674,12,Radio/Tv,Young Adult,Low Exposure
+33,Female,2,Own,Little,Moderate,3244,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+54,Male,3,Own,Rich,Unknown,4591,24,Business,Senior,High Exposure
+34,Male,1,Free,Moderate,Moderate,3844,48,Business,Middle-Aged,Medium Exposure
+36,Male,2,Own,Little,Moderate,3915,27,Business,Middle-Aged,Medium Exposure
+29,Male,2,Rent,Little,Unknown,2108,6,Radio/Tv,Young Adult,Medium Exposure
+21,Male,2,Rent,Moderate,Moderate,3031,45,Radio/Tv,Young Adult,Medium Exposure
+34,Female,3,Own,Little,Moderate,1501,9,Education,Middle-Aged,Medium Exposure
+28,Female,2,Own,Little,Unknown,1382,6,Radio/Tv,Young Adult,Low Exposure
+27,Female,2,Rent,Moderate,Moderate,951,12,Furniture/Equipment,Young Adult,Low Exposure
+36,Male,2,Free,Unknown,Moderate,2760,24,Car,Middle-Aged,Medium Exposure
+40,Male,3,Own,Little,Moderate,4297,18,Furniture/Equipment,Middle-Aged,High Exposure
+52,Male,2,Own,Quite Rich,Unknown,936,9,Education,Senior,Low Exposure
+27,Male,1,Own,Little,Little,1168,12,Car,Young Adult,Low Exposure
+26,Male,2,Own,Little,Unknown,5117,27,Business,Young Adult,High Exposure
+21,Male,2,Rent,Little,Little,902,12,Education,Young Adult,Low Exposure
+38,Male,1,Own,Little,Unknown,1495,12,Car,Middle-Aged,Low Exposure
+38,Male,3,Free,Little,Little,10623,30,Car,Middle-Aged,High Exposure
+43,Male,2,Own,Little,Unknown,1935,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+26,Male,2,Own,Little,Moderate,1424,12,Domestic Appliances,Young Adult,Low Exposure
+21,Male,1,Own,Little,Little,6568,24,Business,Young Adult,High Exposure
+55,Male,2,Own,Rich,Unknown,1413,12,Car,Senior,Low Exposure
+33,Male,2,Own,Unknown,Unknown,3074,9,Radio/Tv,Middle-Aged,Medium Exposure
+45,Female,1,Own,Unknown,Unknown,3835,36,Radio/Tv,Middle-Aged,Medium Exposure
+50,Male,2,Own,Little,Little,5293,27,Business,Middle-Aged,High Exposure
+66,Male,3,Own,Little,Rich,1908,30,Business,Senior,Medium Exposure
+51,Male,2,Own,Unknown,Unknown,3342,36,Radio/Tv,Senior,Medium Exposure
+39,Female,1,Own,Unknown,Moderate,932,6,Education,Middle-Aged,Low Exposure
+31,Male,2,Own,Little,Little,3104,18,Business,Middle-Aged,Medium Exposure
+23,Male,2,Own,Little,Rich,3913,36,Radio/Tv,Young Adult,Medium Exposure
+24,Male,1,Rent,Little,Little,3021,24,Furniture/Equipment,Young Adult,Medium Exposure
+64,Female,2,Own,Little,Unknown,1364,10,Car,Senior,Low Exposure
+26,Male,1,Own,Little,Moderate,625,12,Radio/Tv,Young Adult,Low Exposure
+23,Female,2,Rent,Unknown,Little,1200,12,Education,Young Adult,Low Exposure
+30,Male,2,Own,Little,Unknown,707,12,Radio/Tv,Young Adult,Low Exposure
+32,Male,2,Own,Unknown,Unknown,2978,24,Business,Middle-Aged,Medium Exposure
+30,Male,2,Own,Little,Unknown,4657,15,Car,Young Adult,High Exposure
+27,Male,2,Own,Little,Unknown,2613,36,Repairs,Young Adult,Medium Exposure
+27,Male,2,Own,Rich,Moderate,10961,48,Radio/Tv,Young Adult,High Exposure
+53,Male,3,Free,Little,Little,7865,12,Furniture/Equipment,Senior,High Exposure
+22,Male,2,Own,Little,Unknown,1478,9,Radio/Tv,Young Adult,Low Exposure
+22,Male,2,Free,Little,Little,3149,24,Furniture/Equipment,Young Adult,Medium Exposure
+26,Male,2,Own,Little,Rich,4210,36,Radio/Tv,Young Adult,High Exposure
+51,Male,1,Free,Quite Rich,Unknown,2507,9,Car,Senior,Medium Exposure
+35,Male,2,Own,Moderate,Unknown,2141,12,Radio/Tv,Middle-Aged,Medium Exposure
+25,Male,1,Own,Little,Moderate,866,18,Radio/Tv,Young Adult,Low Exposure
+42,Male,1,Own,Little,Unknown,1544,4,Radio/Tv,Middle-Aged,Medium Exposure
+30,Male,3,Own,Little,Little,1823,24,Radio/Tv,Young Adult,Medium Exposure
+23,Male,0,Own,Unknown,Moderate,14555,6,Car,Young Adult,High Exposure
+61,Male,1,Rent,Moderate,Moderate,2767,21,Business,Senior,Medium Exposure
+35,Female,2,Own,Little,Unknown,1291,12,Radio/Tv,Middle-Aged,Low Exposure
+39,Male,2,Own,Little,Little,2522,30,Radio/Tv,Middle-Aged,Medium Exposure
+29,Female,2,Own,Unknown,Little,915,24,Car,Young Adult,Low Exposure
+51,Male,2,Own,Little,Unknown,1595,6,Radio/Tv,Senior,Medium Exposure
+24,Male,2,Free,Little,Little,4605,48,Car,Young Adult,High Exposure
+27,Female,2,Own,Little,Unknown,1185,12,Business,Young Adult,Low Exposure
+35,Female,1,Own,Quite Rich,Unknown,3447,12,Education,Middle-Aged,Medium Exposure
+25,Male,2,Own,Little,Unknown,1258,24,Business,Young Adult,Low Exposure
+52,Male,2,Own,Little,Unknown,717,12,Radio/Tv,Senior,Low Exposure
+35,Male,2,Rent,Moderate,Unknown,1204,6,Car,Middle-Aged,Low Exposure
+26,Male,2,Own,Little,Rich,1925,24,Furniture/Equipment,Young Adult,Medium Exposure
+22,Female,2,Rent,Little,Unknown,433,18,Radio/Tv,Young Adult,Low Exposure
+39,Female,1,Own,Rich,Little,666,6,Car,Middle-Aged,Low Exposure
+46,Female,1,Own,Little,Rich,2251,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+24,Female,2,Own,Little,Moderate,2150,30,Car,Young Adult,Medium Exposure
+35,Male,2,Own,Moderate,Unknown,4151,24,Furniture/Equipment,Middle-Aged,High Exposure
+24,Male,2,Own,Unknown,Moderate,2030,9,Furniture/Equipment,Young Adult,Medium Exposure
+27,Male,1,Own,Unknown,Moderate,7418,60,Radio/Tv,Young Adult,High Exposure
+35,Male,1,Own,Little,Unknown,2684,24,Radio/Tv,Middle-Aged,Medium Exposure
+29,Male,2,Free,Little,Little,2149,12,Radio/Tv,Young Adult,Medium Exposure
+23,Female,2,Own,Moderate,Unknown,3812,15,Car,Young Adult,Medium Exposure
+57,Female,1,Own,Moderate,Unknown,1154,11,Radio/Tv,Senior,Low Exposure
+27,Male,2,Own,Little,Little,1657,12,Furniture/Equipment,Young Adult,Medium Exposure
+55,Female,2,Own,Little,Little,1603,24,Radio/Tv,Senior,Medium Exposure
+36,Male,3,Free,Little,Little,5302,18,Car,Middle-Aged,High Exposure
+57,Female,1,Free,Little,Unknown,2748,12,Education,Senior,Medium Exposure
+32,Male,1,Own,Little,Unknown,1231,10,Car,Middle-Aged,Low Exposure
+37,Male,2,Own,Little,Moderate,802,15,Radio/Tv,Middle-Aged,Low Exposure
+36,Male,2,Own,Unknown,Unknown,6304,36,Business,Middle-Aged,High Exposure
+38,Female,2,Own,Little,Unknown,1533,24,Radio/Tv,Middle-Aged,Medium Exposure
+45,Male,3,Own,Little,Little,8978,14,Car,Middle-Aged,High Exposure
+25,Male,2,Own,Unknown,Unknown,999,24,Radio/Tv,Young Adult,Low Exposure
+32,Male,2,Own,Unknown,Unknown,2662,18,Car,Middle-Aged,Medium Exposure
+37,Female,2,Rent,Quite Rich,Unknown,1402,12,Furniture/Equipment,Middle-Aged,Low Exposure
+36,Male,3,Free,Unknown,Moderate,12169,48,Car,Middle-Aged,High Exposure
+28,Male,2,Own,Little,Moderate,3060,48,Radio/Tv,Young Adult,Medium Exposure
+34,Male,1,Own,Little,Little,11998,30,Repairs,Middle-Aged,High Exposure
+32,Male,2,Own,Little,Unknown,2697,9,Radio/Tv,Middle-Aged,Medium Exposure
+26,Female,2,Own,Little,Unknown,2404,18,Radio/Tv,Young Adult,Medium Exposure
+49,Male,1,Own,Unknown,Little,1262,12,Furniture/Equipment,Middle-Aged,Low Exposure
+32,Female,2,Own,Little,Unknown,4611,6,Furniture/Equipment,Middle-Aged,High Exposure
+29,Male,3,Rent,Moderate,Unknown,1901,24,Radio/Tv,Young Adult,Medium Exposure
+23,Male,2,Rent,Rich,Unknown,3368,15,Car,Young Adult,Medium Exposure
+50,Male,2,Own,Little,Unknown,1574,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+49,Male,1,Own,Unknown,Rich,1445,18,Radio/Tv,Middle-Aged,Low Exposure
+63,Male,2,Own,Unknown,Unknown,1520,15,Furniture/Equipment,Senior,Medium Exposure
+37,Male,2,Own,Moderate,Moderate,3878,24,Car,Middle-Aged,Medium Exposure
+35,Female,1,Own,Little,Little,10722,47,Car,Middle-Aged,High Exposure
+26,Male,2,Own,Little,Little,4788,48,Car,Young Adult,High Exposure
+31,Male,3,Free,Moderate,Moderate,7582,48,Vacation/Others,Middle-Aged,High Exposure
+49,Female,2,Own,Little,Moderate,1092,12,Radio/Tv,Middle-Aged,Low Exposure
+48,Male,2,Own,Little,Little,1024,24,Radio/Tv,Middle-Aged,Low Exposure
+26,Male,2,Own,Little,Unknown,1076,12,Business,Young Adult,Low Exposure
+28,Male,3,Rent,Little,Moderate,9398,36,Car,Young Adult,High Exposure
+44,Female,3,Free,Little,Little,6419,24,Car,Middle-Aged,High Exposure
+56,Male,2,Free,Little,Rich,4796,42,Car,Senior,High Exposure
+46,Male,3,Own,Unknown,Unknown,7629,48,Business,Middle-Aged,High Exposure
+26,Female,2,Own,Little,Moderate,9960,48,Furniture/Equipment,Young Adult,High Exposure
+20,Female,2,Rent,Unknown,Unknown,4675,12,Car,Young Adult,High Exposure
+45,Male,1,Own,Unknown,Unknown,1287,10,Car,Middle-Aged,Low Exposure
+43,Male,2,Own,Little,Unknown,2515,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+32,Male,2,Own,Rich,Moderate,2745,21,Furniture/Equipment,Middle-Aged,Medium Exposure
+54,Female,0,Own,Little,Unknown,672,6,Car,Senior,Low Exposure
+42,Female,2,Own,Little,Moderate,3804,36,Radio/Tv,Middle-Aged,Medium Exposure
+37,Male,1,Own,Unknown,Rich,1344,24,Car,Middle-Aged,Low Exposure
+49,Male,2,Own,Little,Little,1038,10,Car,Middle-Aged,Low Exposure
+44,Male,2,Free,Quite Rich,Unknown,10127,48,Car,Middle-Aged,High Exposure
+33,Male,2,Own,Rich,Unknown,1543,6,Furniture/Equipment,Middle-Aged,Medium Exposure
+24,Female,1,Rent,Unknown,Unknown,4811,30,Car,Young Adult,High Exposure
+33,Male,1,Own,Moderate,Little,727,12,Radio/Tv,Middle-Aged,Low Exposure
+24,Female,2,Own,Little,Moderate,1237,8,Furniture/Equipment,Young Adult,Low Exposure
+22,Male,1,Rent,Little,Moderate,276,9,Car,Young Adult,Low Exposure
+40,Male,0,Free,Unknown,Moderate,5381,48,Vacation/Others,Middle-Aged,High Exposure
+25,Male,2,Own,Moderate,Unknown,5511,24,Furniture/Equipment,Young Adult,High Exposure
+26,Female,2,Own,Little,Rich,3749,24,Furniture/Equipment,Young Adult,Medium Exposure
+25,Male,1,Own,Little,Moderate,685,12,Car,Young Adult,Low Exposure
+29,Male,1,Own,Unknown,Rich,1494,4,Car,Young Adult,Low Exposure
+31,Male,2,Own,Little,Little,2746,36,Furniture/Equipment,Middle-Aged,Medium Exposure
+38,Male,1,Own,Little,Little,708,12,Furniture/Equipment,Middle-Aged,Low Exposure
+48,Female,1,Own,Unknown,Moderate,4351,24,Furniture/Equipment,Middle-Aged,High Exposure
+32,Male,2,Own,Little,Unknown,701,12,Education,Middle-Aged,Low Exposure
+27,Female,1,Own,Little,Little,3643,15,Furniture/Equipment,Young Adult,Medium Exposure
+28,Male,3,Own,Little,Moderate,4249,30,Car,Young Adult,High Exposure
+32,Male,2,Own,Little,Little,1938,24,Radio/Tv,Middle-Aged,Medium Exposure
+34,Male,3,Free,Little,Little,2910,24,Car,Middle-Aged,Medium Exposure
+28,Male,2,Own,Rich,Little,2659,18,Furniture/Equipment,Young Adult,Medium Exposure
+36,Female,2,Own,Little,Unknown,1028,18,Car,Middle-Aged,Low Exposure
+39,Male,1,Own,Little,Little,3398,8,Car,Middle-Aged,Medium Exposure
+49,Male,2,Rent,Unknown,Unknown,5801,12,Furniture/Equipment,Middle-Aged,High Exposure
+34,Female,2,Own,Rich,Unknown,1525,24,Car,Middle-Aged,Medium Exposure
+31,Male,2,Own,Little,Rich,4473,36,Radio/Tv,Middle-Aged,High Exposure
+28,Male,2,Own,Little,Moderate,1068,6,Radio/Tv,Young Adult,Low Exposure
+75,Male,3,Free,Little,Little,6615,24,Car,Senior,High Exposure
+30,Female,2,Own,Moderate,Unknown,1864,18,Education,Young Adult,Medium Exposure
+24,Female,3,Own,Moderate,Moderate,7408,60,Car,Young Adult,High Exposure
+24,Female,1,Rent,Moderate,Unknown,11590,48,Car,Young Adult,High Exposure
+23,Male,2,Rent,Little,Little,4110,24,Furniture/Equipment,Young Adult,High Exposure
+44,Male,3,Rent,Little,Little,3384,6,Furniture/Equipment,Middle-Aged,Medium Exposure
+23,Female,1,Own,Little,Moderate,2101,13,Radio/Tv,Young Adult,Medium Exposure
+24,Female,2,Rent,Unknown,Little,1275,15,Domestic Appliances,Young Adult,Low Exposure
+28,Male,2,Own,Little,Little,4169,24,Furniture/Equipment,Young Adult,High Exposure
+31,Male,1,Own,Little,Moderate,1521,10,Furniture/Equipment,Middle-Aged,Medium Exposure
+24,Female,2,Free,Little,Moderate,5743,24,Education,Young Adult,High Exposure
+26,Female,1,Rent,Little,Little,3599,21,Furniture/Equipment,Young Adult,Medium Exposure
+25,Male,2,Rent,Quite Rich,Moderate,3213,18,Radio/Tv,Young Adult,Medium Exposure
+33,Male,3,Own,Little,Moderate,4439,18,Business,Middle-Aged,High Exposure
+37,Male,1,Own,Little,Rich,3949,10,Car,Middle-Aged,Medium Exposure
+43,Female,1,Own,Little,Unknown,1459,15,Radio/Tv,Middle-Aged,Low Exposure
+23,Male,2,Own,Little,Moderate,882,13,Radio/Tv,Young Adult,Low Exposure
+23,Female,0,Rent,Quite Rich,Moderate,3758,24,Radio/Tv,Young Adult,Medium Exposure
+34,Male,1,Own,Moderate,Unknown,1743,6,Business,Middle-Aged,Medium Exposure
+32,Male,2,Free,Rich,Moderate,1136,9,Education,Middle-Aged,Low Exposure
+23,Female,2,Rent,Little,Unknown,1236,9,Domestic Appliances,Young Adult,Low Exposure
+29,Female,2,Own,Little,Moderate,959,9,Furniture/Equipment,Young Adult,Low Exposure
+38,Male,3,Own,Unknown,Unknown,3229,18,Car,Middle-Aged,Medium Exposure
+28,Male,2,Rent,Little,Little,6199,12,Radio/Tv,Young Adult,High Exposure
+46,Male,2,Free,Quite Rich,Unknown,727,10,Education,Middle-Aged,Low Exposure
+23,Male,1,Own,Little,Moderate,1246,24,Car,Young Adult,Low Exposure
+49,Male,2,Own,Unknown,Unknown,2331,12,Radio/Tv,Middle-Aged,Medium Exposure
+26,Male,3,Own,Little,Unknown,4463,36,Radio/Tv,Young Adult,High Exposure
+28,Male,2,Own,Little,Unknown,776,12,Radio/Tv,Young Adult,Low Exposure
+23,Female,2,Rent,Little,Little,2406,30,Furniture/Equipment,Young Adult,Medium Exposure
+61,Male,2,Free,Unknown,Moderate,1239,18,Education,Senior,Low Exposure
+37,Male,3,Own,Unknown,Rich,3399,12,Radio/Tv,Middle-Aged,Medium Exposure
+36,Female,2,Own,Little,Rich,2247,12,Car,Middle-Aged,Medium Exposure
+21,Male,2,Rent,Little,Unknown,1766,6,Furniture/Equipment,Young Adult,Medium Exposure
+25,Male,0,Own,Little,Little,2473,18,Furniture/Equipment,Young Adult,Medium Exposure
+36,Male,2,Own,Little,Unknown,1542,12,Business,Middle-Aged,Medium Exposure
+27,Male,2,Own,Little,Unknown,3850,18,Car,Young Adult,Medium Exposure
+22,Female,2,Rent,Little,Little,3650,18,Furniture/Equipment,Young Adult,Medium Exposure
+42,Male,2,Own,Little,Little,3446,36,Furniture/Equipment,Middle-Aged,Medium Exposure
+40,Female,2,Rent,Little,Moderate,3001,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+36,Male,2,Own,Unknown,Unknown,3079,36,Car,Middle-Aged,Medium Exposure
+33,Male,2,Own,Little,Unknown,6070,18,Radio/Tv,Middle-Aged,High Exposure
+23,Female,2,Rent,Little,Unknown,2146,10,Furniture/Equipment,Young Adult,Medium Exposure
+63,Male,3,Free,Unknown,Unknown,13756,60,Car,Senior,High Exposure
+60,Female,3,Free,Moderate,Moderate,14782,60,Vacation/Others,Senior,High Exposure
+37,Female,2,Rent,Little,Little,7685,48,Business,Middle-Aged,High Exposure
+34,Male,2,Own,Little,Unknown,2320,18,Radio/Tv,Middle-Aged,Medium Exposure
+36,Male,2,Free,Unknown,Unknown,846,7,Radio/Tv,Middle-Aged,Low Exposure
+57,Male,3,Free,Little,Moderate,14318,36,Car,Senior,High Exposure
+52,Female,1,Own,Moderate,Unknown,362,6,Car,Senior,Low Exposure
+39,Male,2,Own,Unknown,Little,2212,20,Furniture/Equipment,Middle-Aged,Medium Exposure
+38,Female,3,Free,Little,Moderate,12976,18,Car,Middle-Aged,High Exposure
+25,Female,2,Rent,Unknown,Unknown,1283,22,Car,Young Adult,Low Exposure
+26,Male,2,Own,Little,Rich,1330,12,Car,Young Adult,Low Exposure
+26,Male,1,Own,Moderate,Unknown,4272,30,Business,Young Adult,High Exposure
+25,Female,2,Own,Little,Unknown,2238,18,Radio/Tv,Young Adult,Medium Exposure
+21,Female,2,Rent,Unknown,Unknown,1126,18,Radio/Tv,Young Adult,Low Exposure
+40,Male,3,Own,Little,Moderate,7374,18,Furniture/Equipment,Middle-Aged,High Exposure
+27,Male,2,Own,Quite Rich,Moderate,2326,15,Business,Young Adult,Medium Exposure
+27,Female,2,Own,Little,Unknown,1449,9,Business,Young Adult,Low Exposure
+30,Male,3,Own,Little,Unknown,1820,18,Car,Young Adult,Medium Exposure
+19,Female,1,Rent,Rich,Moderate,983,12,Furniture/Equipment,Young Adult,Low Exposure
+39,Male,3,Free,Little,Little,3249,36,Car,Middle-Aged,Medium Exposure
+31,Female,2,Own,Little,Little,1957,6,Radio/Tv,Middle-Aged,Medium Exposure
+31,Male,3,Own,Little,Unknown,2406,9,Furniture/Equipment,Middle-Aged,Medium Exposure
+32,Male,2,Rent,Moderate,Moderate,11760,39,Education,Middle-Aged,High Exposure
+55,Female,3,Free,Little,Little,2578,12,Furniture/Equipment,Senior,Medium Exposure
+46,Male,2,Own,Little,Little,2348,36,Furniture/Equipment,Middle-Aged,Medium Exposure
+46,Male,2,Rent,Little,Moderate,1223,12,Car,Middle-Aged,Low Exposure
+43,Female,1,Own,Rich,Unknown,1516,24,Radio/Tv,Middle-Aged,Medium Exposure
+39,Male,2,Own,Little,Unknown,1473,18,Radio/Tv,Middle-Aged,Low Exposure
+28,Male,2,Own,Unknown,Moderate,1887,18,Business,Young Adult,Medium Exposure
+27,Male,2,Own,Little,Unknown,8648,24,Business,Young Adult,High Exposure
+27,Male,1,Own,Little,Unknown,802,14,Car,Young Adult,Low Exposure
+43,Male,2,Own,Unknown,Moderate,2899,18,Car,Middle-Aged,Medium Exposure
+22,Male,2,Own,Little,Moderate,2039,24,Radio/Tv,Young Adult,Medium Exposure
+43,Male,2,Own,Unknown,Unknown,2197,24,Car,Middle-Aged,Medium Exposure
+27,Male,2,Own,Little,Little,1053,15,Radio/Tv,Young Adult,Low Exposure
+26,Male,3,Own,Quite Rich,Unknown,3235,24,Radio/Tv,Young Adult,Medium Exposure
+28,Male,2,Own,Quite Rich,Rich,939,12,Car,Young Adult,Low Exposure
+20,Female,2,Own,Little,Moderate,1967,24,Radio/Tv,Young Adult,Medium Exposure
+35,Male,3,Own,Little,Unknown,7253,33,Car,Middle-Aged,High Exposure
+42,Male,3,Own,Little,Unknown,2292,12,Business,Middle-Aged,Medium Exposure
+40,Male,1,Rent,Quite Rich,Unknown,1597,10,Car,Middle-Aged,Medium Exposure
+35,Female,2,Own,Unknown,Little,1381,24,Car,Middle-Aged,Low Exposure
+35,Male,2,Own,Little,Unknown,5842,36,Car,Middle-Aged,High Exposure
+33,Male,1,Own,Little,Little,2579,12,Car,Middle-Aged,Medium Exposure
+23,Female,2,Rent,Unknown,Little,8471,18,Education,Young Adult,High Exposure
+31,Female,3,Own,Quite Rich,Unknown,2782,21,Car,Middle-Aged,Medium Exposure
+33,Female,2,Own,Unknown,Moderate,1042,18,Car,Middle-Aged,Low Exposure
+20,Female,2,Rent,Rich,Unknown,3186,15,Car,Young Adult,Medium Exposure
+30,Male,2,Own,Unknown,Moderate,2028,12,Car,Young Adult,Medium Exposure
+47,Male,1,Own,Little,Moderate,958,12,Car,Middle-Aged,Low Exposure
+34,Male,3,Own,Moderate,Unknown,1591,21,Furniture/Equipment,Middle-Aged,Medium Exposure
+25,Female,2,Own,Unknown,Moderate,2762,12,Furniture/Equipment,Young Adult,Medium Exposure
+21,Male,2,Rent,Little,Moderate,2779,18,Car,Young Adult,Medium Exposure
+29,Male,2,Own,Little,Unknown,2743,28,Radio/Tv,Young Adult,Medium Exposure
+46,Male,2,Own,Rich,Unknown,1149,18,Radio/Tv,Middle-Aged,Low Exposure
+20,Male,2,Own,Little,Unknown,1313,9,Furniture/Equipment,Young Adult,Low Exposure
+55,Female,0,Free,Little,Little,1190,18,Repairs,Senior,Low Exposure
+74,Male,1,Own,Little,Unknown,3448,5,Business,Senior,Medium Exposure
+29,Male,3,Own,Little,Moderate,11328,24,Vacation/Others,Young Adult,High Exposure
+36,Male,3,Free,Little,Little,1872,6,Furniture/Equipment,Middle-Aged,Medium Exposure
+33,Male,2,Own,Little,Unknown,2058,24,Repairs,Middle-Aged,Medium Exposure
+25,Male,2,Own,Little,Little,2136,9,Furniture/Equipment,Young Adult,Medium Exposure
+25,Male,2,Own,Unknown,Moderate,1484,12,Radio/Tv,Young Adult,Low Exposure
+23,Male,1,Rent,Quite Rich,Unknown,660,6,Repairs,Young Adult,Low Exposure
+37,Female,2,Own,Rich,Unknown,1287,24,Car,Middle-Aged,Low Exposure
+65,Male,0,Own,Little,Little,3394,42,Repairs,Senior,Medium Exposure
+26,Female,0,Own,Little,Rich,609,12,Business,Young Adult,Low Exposure
+39,Male,3,Own,Little,Unknown,1884,12,Car,Middle-Aged,Medium Exposure
+30,Female,2,Own,Little,Little,1620,12,Furniture/Equipment,Young Adult,Medium Exposure
+29,Male,2,Own,Little,Moderate,2629,20,Vacation/Others,Young Adult,Medium Exposure
+41,Male,1,Own,Little,Unknown,719,12,Education,Middle-Aged,Low Exposure
+30,Female,3,Own,Little,Moderate,5096,48,Furniture/Equipment,Young Adult,High Exposure
+41,Female,1,Rent,Unknown,Unknown,1244,9,Education,Middle-Aged,Low Exposure
+34,Female,2,Own,Little,Little,1842,36,Car,Middle-Aged,Medium Exposure
+35,Male,2,Own,Little,Moderate,2576,7,Radio/Tv,Middle-Aged,Medium Exposure
+55,Female,3,Own,Unknown,Rich,1424,12,Furniture/Equipment,Senior,Low Exposure
+61,Male,2,Own,Rich,Moderate,1512,15,Repairs,Senior,Medium Exposure
+30,Male,3,Own,Unknown,Unknown,11054,36,Car,Young Adult,High Exposure
+29,Female,2,Own,Little,Unknown,518,6,Radio/Tv,Young Adult,Low Exposure
+34,Male,2,Own,Little,Unknown,2759,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+35,Male,3,Own,Little,Unknown,2670,24,Car,Middle-Aged,Medium Exposure
+31,Male,2,Own,Little,Little,4817,24,Car,Middle-Aged,High Exposure
+29,Female,3,Own,Little,Unknown,2679,24,Car,Young Adult,Medium Exposure
+36,Male,2,Rent,Little,Little,3905,11,Car,Middle-Aged,Medium Exposure
+35,Male,2,Free,Little,Little,3386,12,Car,Middle-Aged,Medium Exposure
+27,Female,2,Own,Little,Little,343,6,Domestic Appliances,Young Adult,Low Exposure
+32,Male,2,Own,Little,Unknown,4594,18,Radio/Tv,Middle-Aged,High Exposure
+37,Male,2,Own,Little,Little,3620,36,Furniture/Equipment,Middle-Aged,Medium Exposure
+36,Male,2,Own,Little,Little,1721,15,Car,Middle-Aged,Medium Exposure
+34,Female,3,Rent,Little,Moderate,3017,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+38,Male,2,Own,Unknown,Moderate,754,12,Education,Middle-Aged,Low Exposure
+34,Male,2,Own,Little,Unknown,1950,18,Business,Middle-Aged,Medium Exposure
+63,Male,2,Own,Little,Little,2924,24,Car,Senior,Medium Exposure
+29,Female,1,Rent,Little,Little,1659,24,Radio/Tv,Young Adult,Medium Exposure
+32,Male,2,Own,Unknown,Unknown,7238,48,Radio/Tv,Middle-Aged,High Exposure
+26,Female,2,Own,Little,Unknown,2764,33,Business,Young Adult,Medium Exposure
+35,Male,1,Own,Little,Unknown,4679,24,Car,Middle-Aged,High Exposure
+22,Male,2,Rent,Moderate,Moderate,3092,24,Radio/Tv,Young Adult,Medium Exposure
+23,Female,2,Own,Little,Little,448,6,Education,Young Adult,Low Exposure
+28,Male,1,Own,Little,Little,654,9,Car,Young Adult,Low Exposure
+36,Male,3,Own,Unknown,Unknown,1238,6,Education,Middle-Aged,Low Exposure
+33,Male,2,Own,Little,Moderate,1245,18,Radio/Tv,Middle-Aged,Low Exposure
+26,Female,2,Rent,Little,Little,3114,18,Furniture/Equipment,Young Adult,Medium Exposure
+24,Male,2,Own,Quite Rich,Unknown,2569,39,Car,Young Adult,Medium Exposure
+25,Male,2,Own,Little,Rich,5152,24,Radio/Tv,Young Adult,High Exposure
+39,Male,1,Own,Moderate,Moderate,1037,12,Business,Middle-Aged,Low Exposure
+44,Male,2,Own,Little,Little,1478,15,Furniture/Equipment,Middle-Aged,Low Exposure
+23,Female,1,Own,Little,Moderate,3573,12,Radio/Tv,Young Adult,Medium Exposure
+26,Male,2,Own,Little,Moderate,1201,24,Car,Young Adult,Low Exposure
+57,Female,2,Rent,Rich,Little,3622,30,Furniture/Equipment,Senior,Medium Exposure
+30,Female,2,Own,Rich,Unknown,960,15,Furniture/Equipment,Young Adult,Low Exposure
+44,Male,2,Own,Quite Rich,Unknown,1163,12,Car,Middle-Aged,Low Exposure
+47,Male,3,Own,Little,Moderate,1209,6,Car,Middle-Aged,Low Exposure
+52,Male,2,Own,Little,Unknown,3077,12,Radio/Tv,Senior,Medium Exposure
+62,Female,2,Free,Little,Unknown,3757,24,Car,Senior,Medium Exposure
+35,Male,1,Rent,Moderate,Unknown,1418,10,Car,Middle-Aged,Low Exposure
+26,Male,2,Rent,Little,Unknown,3518,6,Car,Young Adult,Medium Exposure
+26,Male,2,Own,Little,Unknown,1934,12,Radio/Tv,Young Adult,Medium Exposure
+42,Female,3,Free,Little,Moderate,8318,27,Business,Middle-Aged,High Exposure
+27,Female,2,Own,Moderate,Unknown,1237,6,Radio/Tv,Young Adult,Low Exposure
+38,Male,2,Own,Unknown,Moderate,368,6,Radio/Tv,Middle-Aged,Low Exposure
+39,Male,1,Rent,Little,Little,2122,12,Car,Middle-Aged,Medium Exposure
+20,Male,2,Own,Unknown,Little,2996,24,Furniture/Equipment,Young Adult,Medium Exposure
+29,Male,3,Rent,Moderate,Moderate,9034,36,Furniture/Equipment,Young Adult,High Exposure
+40,Male,2,Own,Little,Unknown,1585,24,Furniture/Equipment,Middle-Aged,Medium Exposure
+32,Male,1,Own,Little,Moderate,1301,18,Radio/Tv,Middle-Aged,Low Exposure
+28,Male,2,Own,Moderate,Rich,1323,6,Car,Young Adult,Low Exposure
+27,Female,2,Own,Little,Little,3123,24,Car,Young Adult,Medium Exposure
+42,Male,2,Free,Little,Little,5493,36,Car,Middle-Aged,High Exposure
+49,Male,2,Own,Moderate,Rich,1126,9,Radio/Tv,Middle-Aged,Low Exposure
+38,Male,2,Own,Moderate,Moderate,1216,24,Radio/Tv,Middle-Aged,Low Exposure
+24,Female,2,Rent,Little,Little,1207,24,Car,Young Adult,Low Exposure
+27,Male,1,Own,Unknown,Unknown,1309,10,Car,Young Adult,Low Exposure
+36,Male,2,Own,Quite Rich,Rich,2360,15,Car,Middle-Aged,Medium Exposure
+34,Male,3,Own,Moderate,Moderate,6850,15,Car,Middle-Aged,High Exposure
+28,Male,2,Own,Little,Unknown,1413,24,Radio/Tv,Young Adult,Low Exposure
+45,Male,3,Own,Moderate,Unknown,8588,39,Car,Middle-Aged,High Exposure
+26,Male,2,Own,Little,Little,759,12,Car,Young Adult,Low Exposure
+32,Male,3,Free,Little,Unknown,4686,36,Car,Middle-Aged,High Exposure
+26,Male,2,Rent,Little,Rich,2687,15,Business,Young Adult,Medium Exposure
+20,Male,2,Rent,Little,Moderate,585,12,Radio/Tv,Young Adult,Low Exposure
+54,Male,2,Own,Unknown,Unknown,2255,24,Car,Senior,Medium Exposure
+37,Female,2,Own,Little,Little,609,6,Car,Middle-Aged,Low Exposure
+40,Male,1,Own,Little,Little,1361,6,Car,Middle-Aged,Low Exposure
+23,Female,2,Rent,Little,Unknown,7127,36,Furniture/Equipment,Young Adult,High Exposure
+43,Male,2,Own,Moderate,Little,1203,6,Car,Middle-Aged,Low Exposure
+36,Male,2,Free,Unknown,Unknown,700,6,Radio/Tv,Middle-Aged,Low Exposure
+44,Male,2,Free,Little,Unknown,5507,24,Repairs,Middle-Aged,High Exposure
+24,Female,2,Own,Little,Little,3190,18,Radio/Tv,Young Adult,Medium Exposure
+53,Male,2,Free,Little,Little,7119,48,Furniture/Equipment,Senior,High Exposure
+23,Female,2,Own,Moderate,Unknown,3488,24,Car,Young Adult,Medium Exposure
+26,Female,1,Own,Little,Moderate,1113,18,Radio/Tv,Young Adult,Low Exposure
+30,Male,2,Own,Little,Moderate,7966,26,Car,Young Adult,High Exposure
+31,Female,2,Own,Moderate,Unknown,1532,15,Education,Middle-Aged,Medium Exposure
+42,Male,1,Own,Little,Unknown,1503,4,Radio/Tv,Middle-Aged,Medium Exposure
+31,Male,2,Rent,Little,Little,2302,36,Radio/Tv,Middle-Aged,Medium Exposure
+41,Male,1,Own,Little,Little,662,6,Car,Middle-Aged,Low Exposure
+32,Male,2,Own,Little,Moderate,2273,36,Education,Middle-Aged,Medium Exposure
+28,Female,2,Rent,Moderate,Moderate,2631,15,Car,Young Adult,Medium Exposure
+41,Male,2,Rent,Little,Unknown,1503,12,Car,Middle-Aged,Medium Exposure
+26,Male,2,Own,Moderate,Unknown,1311,24,Radio/Tv,Young Adult,Low Exposure
+25,Male,2,Own,Unknown,Unknown,3105,24,Radio/Tv,Young Adult,Medium Exposure
+33,Male,2,Rent,Little,Rich,2319,21,Education,Middle-Aged,Medium Exposure
+75,Female,3,Own,Unknown,Little,1374,6,Car,Senior,Low Exposure
+37,Female,2,Own,Little,Moderate,3612,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+42,Male,3,Free,Little,Little,7763,48,Car,Middle-Aged,High Exposure
+45,Female,1,Own,Little,Rich,3049,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+23,Male,2,Rent,Little,Moderate,1534,12,Radio/Tv,Young Adult,Medium Exposure
+60,Male,2,Free,Little,Unknown,2032,24,Car,Senior,Medium Exposure
+31,Male,2,Own,Unknown,Little,6350,30,Furniture/Equipment,Middle-Aged,High Exposure
+34,Male,1,Own,Little,Rich,2864,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+61,Male,1,Own,Little,Unknown,1255,12,Car,Senior,Low Exposure
+43,Male,2,Free,Little,Little,1333,24,Car,Middle-Aged,Low Exposure
+37,Female,2,Own,Little,Unknown,2022,24,Car,Middle-Aged,Medium Exposure
+32,Male,2,Own,Little,Unknown,1552,24,Radio/Tv,Middle-Aged,Medium Exposure
+24,Female,1,Own,Little,Little,626,12,Radio/Tv,Young Adult,Low Exposure
+35,Male,2,Free,Unknown,Unknown,8858,48,Car,Middle-Aged,High Exposure
+23,Female,2,Own,Unknown,Unknown,996,12,Repairs,Young Adult,Low Exposure
+45,Male,1,Own,Quite Rich,Unknown,1750,6,Radio/Tv,Middle-Aged,Medium Exposure
+34,Male,2,Own,Little,Little,6999,48,Radio/Tv,Middle-Aged,High Exposure
+27,Male,2,Own,Moderate,Moderate,1995,12,Car,Young Adult,Medium Exposure
+67,Female,3,Own,Little,Moderate,1199,9,Education,Senior,Low Exposure
+22,Male,2,Own,Little,Moderate,1331,12,Radio/Tv,Young Adult,Low Exposure
+28,Female,2,Own,Moderate,Moderate,2278,18,Car,Young Adult,Medium Exposure
+29,Female,2,Own,Unknown,Unknown,5003,21,Car,Young Adult,High Exposure
+27,Male,2,Own,Little,Little,3552,24,Furniture/Equipment,Young Adult,Medium Exposure
+31,Male,1,Own,Little,Moderate,1928,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+49,Male,2,Free,Unknown,Little,2964,24,Car,Middle-Aged,Medium Exposure
+24,Male,1,Rent,Little,Little,1546,24,Radio/Tv,Young Adult,Medium Exposure
+29,Female,2,Own,Little,Rich,683,6,Radio/Tv,Young Adult,Low Exposure
+37,Male,2,Free,Unknown,Moderate,12389,36,Car,Middle-Aged,High Exposure
+37,Male,3,Own,Unknown,Moderate,4712,24,Business,Middle-Aged,High Exposure
+23,Female,2,Rent,Moderate,Moderate,1553,24,Radio/Tv,Young Adult,Medium Exposure
+36,Male,2,Own,Little,Little,1372,12,Car,Middle-Aged,Low Exposure
+34,Male,2,Own,Rich,Unknown,2578,24,Radio/Tv,Middle-Aged,Medium Exposure
+41,Male,2,Own,Unknown,Moderate,3979,48,Radio/Tv,Middle-Aged,Medium Exposure
+31,Female,2,Own,Little,Little,6758,48,Radio/Tv,Middle-Aged,High Exposure
+23,Female,1,Rent,Little,Little,3234,24,Furniture/Equipment,Young Adult,Medium Exposure
+38,Male,2,Own,Little,Unknown,5954,30,Radio/Tv,Middle-Aged,High Exposure
+26,Female,3,Rent,Unknown,Unknown,5433,24,Car,Young Adult,High Exposure
+22,Female,1,Own,Little,Little,806,15,Business,Young Adult,Low Exposure
+27,Male,1,Own,Little,Moderate,1082,9,Radio/Tv,Young Adult,Low Exposure
+24,Female,2,Own,Little,Unknown,2788,15,Furniture/Equipment,Young Adult,Medium Exposure
+27,Female,2,Own,Little,Moderate,2930,12,Radio/Tv,Young Adult,Medium Exposure
+33,Female,2,Own,Unknown,Unknown,1927,24,Education,Middle-Aged,Medium Exposure
+27,Male,2,Own,Little,Moderate,2820,36,Car,Young Adult,Medium Exposure
+27,Male,1,Own,Little,Unknown,937,24,Education,Young Adult,Low Exposure
+30,Male,2,Own,Little,Moderate,1056,18,Car,Young Adult,Low Exposure
+49,Male,1,Own,Little,Moderate,3124,12,Car,Middle-Aged,Medium Exposure
+26,Female,2,Rent,Little,Unknown,1388,9,Furniture/Equipment,Young Adult,Low Exposure
+33,Male,1,Rent,Little,Moderate,2384,36,Repairs,Middle-Aged,Medium Exposure
+52,Female,3,Free,Unknown,Unknown,2133,12,Car,Senior,Medium Exposure
+20,Female,2,Rent,Little,Little,2039,18,Furniture/Equipment,Young Adult,Medium Exposure
+36,Male,2,Rent,Little,Little,2799,9,Car,Middle-Aged,Medium Exposure
+21,Male,1,Own,Little,Little,1289,12,Furniture/Equipment,Young Adult,Low Exposure
+47,Male,1,Own,Little,Little,1217,18,Domestic Appliances,Middle-Aged,Low Exposure
+60,Male,2,Own,Little,Little,2246,12,Furniture/Equipment,Senior,Medium Exposure
+58,Female,1,Own,Little,Little,385,12,Radio/Tv,Senior,Low Exposure
+42,Female,2,Rent,Unknown,Moderate,1965,24,Car,Middle-Aged,Medium Exposure
+36,Female,1,Own,Rich,Unknown,1572,21,Business,Middle-Aged,Medium Exposure
+20,Female,1,Rent,Little,Moderate,2718,24,Car,Young Adult,Medium Exposure
+40,Male,3,Own,Unknown,Little,1358,24,Vacation/Others,Middle-Aged,Low Exposure
+32,Female,1,Own,Moderate,Moderate,931,6,Car,Middle-Aged,Low Exposure
+23,Female,2,Rent,Little,Little,1442,24,Car,Young Adult,Low Exposure
+36,Male,1,Own,Little,Moderate,4241,24,Business,Middle-Aged,High Exposure
+31,Male,2,Own,Little,Unknown,2775,18,Car,Middle-Aged,Medium Exposure
+32,Male,2,Free,Little,Unknown,3863,24,Business,Middle-Aged,Medium Exposure
+45,Female,2,Own,Little,Moderate,2329,7,Radio/Tv,Middle-Aged,Medium Exposure
+30,Female,2,Own,Little,Moderate,918,9,Furniture/Equipment,Young Adult,Low Exposure
+34,Female,1,Free,Little,Moderate,1837,24,Education,Middle-Aged,Medium Exposure
+28,Female,3,Own,Little,Unknown,3349,36,Furniture/Equipment,Young Adult,Medium Exposure
+23,Female,2,Own,Little,Rich,1275,10,Furniture/Equipment,Young Adult,Low Exposure
+22,Male,2,Own,Quite Rich,Little,2828,24,Furniture/Equipment,Young Adult,Medium Exposure
+74,Male,3,Own,Little,Unknown,4526,24,Business,Senior,High Exposure
+50,Female,2,Free,Moderate,Moderate,2671,36,Radio/Tv,Middle-Aged,Medium Exposure
+33,Male,2,Own,Little,Unknown,2051,18,Radio/Tv,Middle-Aged,Medium Exposure
+45,Male,2,Free,Unknown,Unknown,1300,15,Car,Middle-Aged,Low Exposure
+22,Female,2,Own,Moderate,Little,741,12,Domestic Appliances,Young Adult,Low Exposure
+48,Female,1,Free,Moderate,Rich,1240,10,Car,Middle-Aged,Low Exposure
+29,Female,2,Own,Rich,Little,3357,21,Radio/Tv,Young Adult,Medium Exposure
+22,Female,2,Rent,Little,Little,3632,24,Car,Young Adult,Medium Exposure
+22,Female,2,Own,Little,Unknown,1808,18,Furniture/Equipment,Young Adult,Medium Exposure
+48,Male,3,Own,Unknown,Moderate,12204,48,Business,Middle-Aged,High Exposure
+27,Male,3,Free,Unknown,Moderate,9157,60,Radio/Tv,Young Adult,High Exposure
+37,Male,2,Rent,Little,Little,3676,6,Car,Middle-Aged,Medium Exposure
+21,Female,2,Rent,Moderate,Moderate,3441,30,Furniture/Equipment,Young Adult,Medium Exposure
+49,Male,1,Own,Little,Unknown,640,12,Car,Middle-Aged,Low Exposure
+27,Male,2,Own,Little,Moderate,3652,21,Business,Young Adult,Medium Exposure
+32,Male,2,Own,Little,Unknown,1530,18,Car,Middle-Aged,Medium Exposure
+38,Male,2,Own,Unknown,Unknown,3914,48,Business,Middle-Aged,Medium Exposure
+22,Female,2,Rent,Little,Little,1858,12,Furniture/Equipment,Young Adult,Medium Exposure
+65,Male,2,Free,Little,Little,2600,18,Radio/Tv,Senior,Medium Exposure
+35,Male,2,Own,Unknown,Unknown,1979,15,Radio/Tv,Middle-Aged,Medium Exposure
+41,Male,2,Own,Little,Rich,2116,6,Furniture/Equipment,Middle-Aged,Medium Exposure
+29,Male,2,Own,Moderate,Moderate,1437,9,Car,Young Adult,Low Exposure
+36,Male,2,Own,Quite Rich,Unknown,4042,42,Furniture/Equipment,Middle-Aged,High Exposure
+64,Male,1,Own,Unknown,Unknown,3832,9,Education,Senior,Medium Exposure
+28,Female,2,Own,Little,Little,3660,24,Radio/Tv,Young Adult,Medium Exposure
+44,Male,2,Own,Little,Little,1553,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+23,Male,2,Own,Unknown,Moderate,1444,15,Radio/Tv,Young Adult,Low Exposure
+19,Female,2,Rent,Little,Unknown,1980,9,Furniture/Equipment,Young Adult,Medium Exposure
+25,Female,1,Own,Little,Moderate,1355,24,Car,Young Adult,Low Exposure
+47,Male,2,Own,Little,Unknown,1393,12,Education,Middle-Aged,Low Exposure
+28,Female,2,Own,Quite Rich,Unknown,1376,24,Radio/Tv,Young Adult,Low Exposure
+21,Male,2,Own,Little,Unknown,15653,60,Radio/Tv,Young Adult,High Exposure
+34,Female,2,Own,Little,Unknown,1493,12,Radio/Tv,Middle-Aged,Low Exposure
+26,Male,2,Own,Little,Little,4370,42,Radio/Tv,Young Adult,High Exposure
+27,Female,0,Own,Little,Little,750,18,Education,Young Adult,Low Exposure
+38,Male,1,Own,Little,Moderate,1308,15,Repairs,Middle-Aged,Low Exposure
+40,Male,3,Own,Moderate,Unknown,4623,15,Education,Middle-Aged,High Exposure
+33,Male,2,Own,Little,Unknown,1851,24,Radio/Tv,Middle-Aged,Medium Exposure
+32,Male,3,Own,Little,Little,1880,18,Radio/Tv,Middle-Aged,Medium Exposure
+27,Male,2,Rent,Unknown,Unknown,7980,36,Business,Young Adult,High Exposure
+32,Male,2,Own,Little,Little,4583,30,Furniture/Equipment,Middle-Aged,High Exposure
+26,Female,2,Own,Quite Rich,Unknown,1386,12,Car,Young Adult,Low Exposure
+38,Male,2,Free,Little,Rich,947,24,Car,Middle-Aged,Low Exposure
+40,Male,1,Rent,Little,Little,684,12,Education,Middle-Aged,Low Exposure
+50,Male,3,Free,Little,Little,7476,48,Education,Middle-Aged,High Exposure
+37,Male,1,Own,Little,Moderate,1922,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+45,Male,2,Own,Little,Little,2303,24,Car,Middle-Aged,Medium Exposure
+42,Male,3,Own,Moderate,Moderate,8086,36,Car,Middle-Aged,High Exposure
+35,Male,2,Own,Little,Unknown,2346,24,Car,Middle-Aged,Medium Exposure
+22,Male,2,Free,Little,Little,3973,14,Car,Young Adult,Medium Exposure
+41,Male,1,Own,Little,Moderate,888,12,Car,Middle-Aged,Low Exposure
+37,Male,2,Own,Unknown,Unknown,10222,48,Radio/Tv,Middle-Aged,High Exposure
+28,Female,2,Own,Little,Moderate,4221,30,Business,Young Adult,High Exposure
+41,Male,2,Own,Little,Moderate,6361,18,Furniture/Equipment,Middle-Aged,High Exposure
+23,Male,2,Rent,Little,Rich,1297,12,Radio/Tv,Young Adult,Low Exposure
+23,Male,2,Own,Unknown,Little,900,12,Car,Young Adult,Low Exposure
+50,Male,2,Own,Little,Unknown,2241,21,Furniture/Equipment,Middle-Aged,Medium Exposure
+35,Male,3,Own,Little,Moderate,1050,6,Furniture/Equipment,Middle-Aged,Low Exposure
+50,Female,1,Own,Little,Rich,1047,6,Education,Middle-Aged,Low Exposure
+27,Male,3,Own,Little,Unknown,6314,24,Vacation/Others,Young Adult,High Exposure
+34,Male,2,Own,Rich,Moderate,3496,30,Furniture/Equipment,Middle-Aged,Medium Exposure
+27,Female,2,Own,Little,Unknown,3609,48,Business,Young Adult,Medium Exposure
+43,Male,2,Rent,Little,Little,4843,12,Car,Middle-Aged,High Exposure
+47,Male,2,Own,Little,Rich,3017,30,Radio/Tv,Middle-Aged,Medium Exposure
+27,Male,1,Own,Moderate,Unknown,4139,24,Business,Young Adult,High Exposure
+31,Male,2,Own,Moderate,Unknown,5742,36,Business,Middle-Aged,High Exposure
+42,Male,3,Own,Little,Unknown,10366,60,Car,Middle-Aged,High Exposure
+24,Male,2,Own,Quite Rich,Unknown,2080,6,Car,Young Adult,Medium Exposure
+41,Male,1,Own,Quite Rich,Unknown,2580,21,Business,Middle-Aged,Medium Exposure
+26,Female,3,Rent,Little,Unknown,4530,30,Radio/Tv,Young Adult,High Exposure
+33,Male,2,Own,Little,Unknown,5150,24,Furniture/Equipment,Middle-Aged,High Exposure
+24,Male,2,Own,Moderate,Moderate,5595,72,Radio/Tv,Young Adult,High Exposure
+64,Male,1,Rent,Little,Little,2384,24,Radio/Tv,Senior,Medium Exposure
+26,Female,2,Own,Little,Unknown,1453,18,Radio/Tv,Young Adult,Low Exposure
+56,Female,2,Own,Little,Unknown,1538,6,Education,Senior,Medium Exposure
+37,Male,2,Free,Unknown,Unknown,2279,12,Radio/Tv,Middle-Aged,Medium Exposure
+33,Male,2,Own,Little,Unknown,1478,15,Radio/Tv,Middle-Aged,Low Exposure
+47,Male,2,Free,Little,Unknown,5103,24,Radio/Tv,Middle-Aged,High Exposure
+31,Male,1,Own,Moderate,Moderate,9857,36,Business,Middle-Aged,High Exposure
+34,Male,2,Free,Unknown,Unknown,6527,60,Car,Middle-Aged,High Exposure
+27,Male,2,Own,Unknown,Rich,1347,10,Radio/Tv,Young Adult,Low Exposure
+30,Male,2,Free,Moderate,Moderate,2862,36,Car,Young Adult,Medium Exposure
+35,Male,2,Own,Moderate,Unknown,2753,9,Radio/Tv,Middle-Aged,Medium Exposure
+31,Male,2,Own,Rich,Little,3651,12,Car,Middle-Aged,Medium Exposure
+25,Male,2,Own,Little,Little,975,15,Furniture/Equipment,Young Adult,Low Exposure
+25,Female,1,Own,Moderate,Moderate,2631,15,Repairs,Young Adult,Medium Exposure
+29,Male,2,Own,Moderate,Moderate,2896,24,Radio/Tv,Young Adult,Medium Exposure
+44,Male,1,Own,Unknown,Little,4716,6,Car,Middle-Aged,High Exposure
+28,Male,2,Own,Little,Unknown,2284,24,Radio/Tv,Young Adult,Medium Exposure
+50,Male,2,Rent,Quite Rich,Unknown,1236,6,Car,Middle-Aged,Low Exposure
+29,Male,2,Own,Little,Moderate,1103,12,Radio/Tv,Young Adult,Low Exposure
+38,Female,0,Own,Little,Unknown,926,12,Car,Middle-Aged,Low Exposure
+24,Male,2,Own,Little,Unknown,1800,18,Radio/Tv,Young Adult,Medium Exposure
+40,Male,3,Rent,Little,Rich,1905,15,Education,Middle-Aged,Medium Exposure
+29,Female,1,Rent,Quite Rich,Unknown,1123,12,Furniture/Equipment,Young Adult,Low Exposure
+46,Male,2,Free,Little,Little,6331,48,Car,Middle-Aged,High Exposure
+47,Female,2,Free,Moderate,Rich,1377,24,Radio/Tv,Middle-Aged,Low Exposure
+41,Male,2,Own,Moderate,Moderate,2503,30,Business,Middle-Aged,Medium Exposure
+32,Female,2,Own,Little,Moderate,2528,27,Business,Middle-Aged,Medium Exposure
+35,Female,2,Free,Quite Rich,Unknown,5324,15,Car,Middle-Aged,High Exposure
+24,Male,2,Own,Moderate,Moderate,6560,48,Car,Young Adult,High Exposure
+25,Female,2,Rent,Little,Moderate,2969,12,Furniture/Equipment,Young Adult,Medium Exposure
+25,Female,2,Own,Little,Moderate,1206,9,Radio/Tv,Young Adult,Low Exposure
+37,Male,1,Own,Little,Moderate,2118,9,Radio/Tv,Middle-Aged,Medium Exposure
+32,Male,3,Own,Quite Rich,Unknown,629,18,Radio/Tv,Middle-Aged,Low Exposure
+35,Female,2,Free,Little,Little,1198,6,Education,Middle-Aged,Low Exposure
+46,Male,3,Own,Unknown,Unknown,2476,21,Car,Middle-Aged,Medium Exposure
+25,Male,1,Own,Little,Little,1138,9,Radio/Tv,Young Adult,Low Exposure
+27,Male,3,Own,Little,Moderate,14027,60,Car,Young Adult,High Exposure
+63,Male,2,Own,Unknown,Unknown,7596,30,Car,Senior,High Exposure
+40,Male,2,Own,Unknown,Unknown,3077,30,Radio/Tv,Middle-Aged,Medium Exposure
+32,Male,3,Free,Little,Unknown,1505,18,Radio/Tv,Middle-Aged,Medium Exposure
+31,Male,2,Own,Unknown,Rich,3148,24,Radio/Tv,Middle-Aged,Medium Exposure
+31,Male,2,Own,Moderate,Moderate,6148,20,Car,Middle-Aged,High Exposure
+34,Male,3,Own,Little,Rich,1337,9,Radio/Tv,Middle-Aged,Low Exposure
+24,Female,2,Rent,Rich,Moderate,433,6,Education,Young Adult,Low Exposure
+24,Female,1,Own,Little,Little,1228,12,Car,Young Adult,Low Exposure
+66,Female,1,Own,Quite Rich,Moderate,790,9,Radio/Tv,Senior,Low Exposure
+21,Female,2,Rent,Little,Unknown,2570,27,Car,Young Adult,Medium Exposure
+41,Female,1,Own,Rich,Unknown,250,6,Car,Middle-Aged,Low Exposure
+47,Male,1,Own,Quite Rich,Unknown,1316,15,Radio/Tv,Middle-Aged,Low Exposure
+25,Female,2,Rent,Little,Little,1882,18,Radio/Tv,Young Adult,Medium Exposure
+59,Female,2,Rent,Little,Moderate,6416,48,Business,Senior,High Exposure
+36,Male,2,Own,Rich,Rich,1275,24,Business,Middle-Aged,Low Exposure
+33,Male,2,Own,Little,Moderate,6403,24,Radio/Tv,Middle-Aged,High Exposure
+21,Male,1,Rent,Little,Little,1987,24,Radio/Tv,Young Adult,Medium Exposure
+44,Female,1,Own,Little,Moderate,760,8,Radio/Tv,Middle-Aged,Low Exposure
+28,Female,2,Rent,Rich,Unknown,2603,24,Car,Young Adult,Medium Exposure
+37,Female,2,Own,Little,Unknown,3380,4,Car,Middle-Aged,Medium Exposure
+29,Female,0,Own,Unknown,Moderate,3990,36,Domestic Appliances,Young Adult,Medium Exposure
+23,Female,3,Rent,Little,Moderate,11560,24,Car,Young Adult,High Exposure
+35,Male,1,Own,Moderate,Little,4380,18,Car,Middle-Aged,High Exposure
+45,Male,3,Own,Little,Unknown,6761,6,Car,Middle-Aged,High Exposure
+26,Female,1,Rent,Moderate,Moderate,4280,30,Business,Young Adult,High Exposure
+32,Male,2,Own,Moderate,Little,2325,24,Car,Middle-Aged,Medium Exposure
+23,Male,1,Own,Little,Moderate,1048,10,Radio/Tv,Young Adult,Low Exposure
+41,Male,2,Own,Unknown,Unknown,3160,21,Radio/Tv,Middle-Aged,Medium Exposure
+22,Male,2,Own,Quite Rich,Little,2483,24,Furniture/Equipment,Young Adult,Medium Exposure
+30,Male,3,Own,Unknown,Little,14179,39,Furniture/Equipment,Young Adult,High Exposure
+28,Male,1,Own,Little,Little,1797,13,Business,Young Adult,Medium Exposure
+23,Female,2,Rent,Little,Little,2511,15,Car,Young Adult,Medium Exposure
+37,Female,1,Own,Little,Little,1274,12,Car,Middle-Aged,Low Exposure
+26,Male,2,Own,Unknown,Unknown,5248,21,Car,Young Adult,High Exposure
+33,Male,2,Own,Little,Unknown,3029,15,Car,Middle-Aged,Medium Exposure
+49,Female,2,Own,Little,Little,428,6,Furniture/Equipment,Middle-Aged,Low Exposure
+23,Female,1,Own,Little,Little,976,18,Car,Young Adult,Low Exposure
+23,Female,1,Rent,Moderate,Moderate,841,12,Business,Young Adult,Low Exposure
+25,Female,2,Own,Little,Unknown,5771,30,Radio/Tv,Young Adult,High Exposure
+55,Male,2,Free,Rich,Unknown,1555,12,Repairs,Senior,Medium Exposure
+32,Female,2,Rent,Unknown,Little,1285,24,Car,Middle-Aged,Low Exposure
+74,Male,0,Own,Little,Rich,1299,6,Car,Senior,Low Exposure
+39,Male,2,Free,Unknown,Rich,1271,15,Radio/Tv,Middle-Aged,Low Exposure
+31,Male,2,Own,Little,Unknown,1393,24,Car,Middle-Aged,Low Exposure
+35,Male,2,Own,Little,Little,691,12,Car,Middle-Aged,Low Exposure
+59,Female,2,Own,Unknown,Unknown,5045,15,Car,Senior,High Exposure
+24,Female,2,Rent,Little,Little,2124,18,Furniture/Equipment,Young Adult,Medium Exposure
+24,Male,1,Own,Little,Little,2214,12,Radio/Tv,Young Adult,Medium Exposure
+30,Male,3,Free,Unknown,Unknown,12680,21,Car,Young Adult,High Exposure
+27,Male,2,Own,Moderate,Unknown,2463,24,Car,Young Adult,Medium Exposure
+40,Male,1,Own,Little,Moderate,1155,12,Radio/Tv,Middle-Aged,Low Exposure
+31,Male,1,Own,Little,Little,3108,30,Furniture/Equipment,Middle-Aged,Medium Exposure
+31,Female,2,Rent,Unknown,Unknown,2901,10,Car,Middle-Aged,Medium Exposure
+28,Male,2,Rent,Little,Moderate,3617,12,Furniture/Equipment,Young Adult,Medium Exposure
+63,Male,1,Own,Little,Unknown,1655,12,Radio/Tv,Senior,Medium Exposure
+26,Female,2,Rent,Unknown,Little,2812,24,Car,Young Adult,Medium Exposure
+25,Female,3,Own,Little,Little,8065,36,Education,Young Adult,High Exposure
+36,Male,3,Own,Little,Unknown,3275,21,Car,Middle-Aged,Medium Exposure
+52,Male,2,Own,Moderate,Unknown,2223,24,Radio/Tv,Senior,Medium Exposure
+66,Male,0,Free,Quite Rich,Rich,1480,12,Car,Senior,Low Exposure
+25,Female,2,Rent,Unknown,Little,1371,24,Car,Young Adult,Low Exposure
+37,Male,2,Own,Little,Unknown,3535,36,Car,Middle-Aged,Medium Exposure
+25,Female,2,Own,Little,Little,3509,18,Radio/Tv,Young Adult,Medium Exposure
+38,Male,3,Own,Rich,Unknown,5711,36,Car,Middle-Aged,High Exposure
+67,Female,2,Own,Little,Moderate,3872,18,Repairs,Senior,Medium Exposure
+25,Male,2,Own,Little,Moderate,4933,39,Radio/Tv,Young Adult,High Exposure
+60,Male,2,Own,Rich,Unknown,1940,24,Car,Senior,Medium Exposure
+31,Male,1,Own,Little,Moderate,1410,12,Education,Middle-Aged,Low Exposure
+23,Female,1,Own,Moderate,Moderate,836,12,Car,Young Adult,Low Exposure
+60,Male,3,Own,Unknown,Moderate,6468,20,Car,Senior,High Exposure
+35,Male,1,Own,Rich,Moderate,1941,18,Business,Middle-Aged,Medium Exposure
+40,Male,2,Own,Quite Rich,Unknown,2675,22,Radio/Tv,Middle-Aged,Medium Exposure
+38,Male,2,Own,Unknown,Unknown,2751,48,Car,Middle-Aged,Medium Exposure
+50,Male,2,Free,Little,Moderate,6224,48,Education,Middle-Aged,High Exposure
+27,Male,2,Own,Little,Little,5998,40,Education,Young Adult,High Exposure
+39,Female,2,Own,Little,Moderate,1188,21,Business,Middle-Aged,Low Exposure
+41,Male,3,Own,Unknown,Unknown,6313,24,Car,Middle-Aged,High Exposure
+27,Male,2,Own,Unknown,Unknown,1221,6,Furniture/Equipment,Young Adult,Low Exposure
+51,Male,2,Free,Little,Rich,2892,24,Furniture/Equipment,Senior,Medium Exposure
+32,Male,2,Rent,Quite Rich,Unknown,3062,24,Furniture/Equipment,Middle-Aged,Medium Exposure
+22,Female,2,Rent,Moderate,Unknown,2301,9,Furniture/Equipment,Young Adult,Medium Exposure
+51,Male,2,Free,Unknown,Little,7511,18,Car,Senior,High Exposure
+22,Female,1,Rent,Little,Unknown,1258,12,Furniture/Equipment,Young Adult,Low Exposure
+54,Male,2,Own,Unknown,Unknown,717,24,Car,Senior,Low Exposure
+35,Male,0,Own,Unknown,Moderate,1549,9,Car,Middle-Aged,Medium Exposure
+54,Male,2,Free,Little,Unknown,1597,24,Education,Senior,Medium Exposure
+48,Female,1,Rent,Little,Moderate,1795,18,Radio/Tv,Middle-Aged,Medium Exposure
+24,Female,2,Own,Little,Little,4272,20,Furniture/Equipment,Young Adult,High Exposure
+35,Male,2,Own,Unknown,Unknown,976,12,Radio/Tv,Middle-Aged,Low Exposure
+24,Female,0,Rent,Unknown,Moderate,7472,12,Car,Young Adult,High Exposure
+24,Male,2,Own,Little,Little,9271,36,Car,Young Adult,High Exposure
+26,Male,1,Own,Little,Moderate,590,6,Radio/Tv,Young Adult,Low Exposure
+65,Male,2,Own,Unknown,Unknown,930,12,Radio/Tv,Senior,Low Exposure
+55,Male,3,Free,Little,Moderate,9283,42,Car,Senior,High Exposure
+26,Female,0,Rent,Little,Moderate,1778,15,Car,Young Adult,Medium Exposure
+26,Male,2,Own,Little,Moderate,907,8,Business,Young Adult,Low Exposure
+28,Male,1,Own,Little,Moderate,484,6,Radio/Tv,Young Adult,Low Exposure
+24,Male,2,Own,Little,Little,9629,36,Car,Young Adult,High Exposure
+54,Male,2,Own,Little,Little,3051,48,Domestic Appliances,Senior,Medium Exposure
+46,Male,2,Free,Little,Little,3931,48,Car,Middle-Aged,Medium Exposure
+54,Female,2,Rent,Little,Moderate,7432,36,Car,Senior,High Exposure
+62,Male,2,Own,Quite Rich,Unknown,1338,6,Domestic Appliances,Senior,Low Exposure
+24,Female,2,Rent,Little,Unknown,1554,6,Radio/Tv,Young Adult,Medium Exposure
+43,Male,3,Own,Little,Little,15857,36,Vacation/Others,Middle-Aged,High Exposure
+26,Male,2,Own,Little,Little,1345,18,Radio/Tv,Young Adult,Low Exposure
+27,Male,2,Own,Little,Unknown,1101,12,Car,Young Adult,Low Exposure
+24,Male,2,Own,Little,Rich,3016,12,Radio/Tv,Young Adult,Medium Exposure
+41,Male,2,Own,Little,Little,2712,36,Furniture/Equipment,Middle-Aged,Medium Exposure
+47,Male,1,Own,Little,Little,731,8,Car,Middle-Aged,Low Exposure
+35,Male,3,Own,Little,Unknown,3780,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+30,Male,2,Own,Little,Little,1602,21,Car,Young Adult,Medium Exposure
+33,Female,2,Rent,Little,Little,3966,18,Car,Middle-Aged,Medium Exposure
+36,Male,2,Own,Little,Unknown,4165,18,Business,Middle-Aged,High Exposure
+47,Male,2,Free,Unknown,Little,8335,36,Car,Middle-Aged,High Exposure
+38,Male,2,Free,Unknown,Moderate,6681,48,Business,Middle-Aged,High Exposure
+44,Male,2,Own,Quite Rich,Unknown,2375,24,Business,Middle-Aged,Medium Exposure
+23,Female,2,Rent,Little,Little,1216,18,Car,Young Adult,Low Exposure
+29,Male,2,Rent,Little,Little,11816,45,Business,Young Adult,High Exposure
+42,Female,2,Own,Unknown,Moderate,5084,24,Radio/Tv,Middle-Aged,High Exposure
+25,Female,1,Own,Little,Rich,2327,15,Radio/Tv,Young Adult,Medium Exposure
+48,Male,2,Own,Little,Little,1082,12,Car,Middle-Aged,Low Exposure
+21,Female,2,Own,Unknown,Unknown,886,12,Radio/Tv,Young Adult,Low Exposure
+23,Female,1,Rent,Little,Unknown,601,4,Furniture/Equipment,Young Adult,Low Exposure
+63,Male,2,Own,Little,Little,2957,24,Car,Senior,Medium Exposure
+46,Male,2,Own,Little,Unknown,2611,24,Radio/Tv,Middle-Aged,Medium Exposure
+29,Male,2,Own,Little,Little,5179,36,Furniture/Equipment,Young Adult,High Exposure
+28,Male,1,Own,Little,Unknown,2993,21,Car,Young Adult,Medium Exposure
+23,Female,2,Own,Little,Unknown,1943,18,Repairs,Young Adult,Medium Exposure
+50,Male,2,Own,Little,Unknown,1559,24,Business,Middle-Aged,Medium Exposure
+47,Male,2,Own,Little,Unknown,3422,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+35,Male,2,Own,Unknown,Moderate,3976,21,Furniture/Equipment,Middle-Aged,Medium Exposure
+68,Male,2,Rent,Unknown,Unknown,6761,18,Car,Senior,High Exposure
+28,Male,2,Own,Little,Unknown,1249,24,Car,Young Adult,Low Exposure
+59,Male,2,Own,Little,Little,1364,9,Radio/Tv,Senior,Low Exposure
+57,Male,1,Own,Little,Little,709,12,Radio/Tv,Senior,Low Exposure
+33,Male,2,Rent,Little,Little,2235,20,Car,Middle-Aged,Medium Exposure
+43,Male,2,Own,Unknown,Unknown,4042,24,Car,Middle-Aged,High Exposure
+35,Male,2,Free,Little,Unknown,1471,15,Radio/Tv,Middle-Aged,Low Exposure
+32,Male,1,Free,Little,Little,1442,18,Car,Middle-Aged,Low Exposure
+45,Male,2,Own,Little,Unknown,10875,36,Car,Middle-Aged,High Exposure
+33,Male,2,Own,Moderate,Unknown,1474,24,Car,Middle-Aged,Low Exposure
+40,Female,2,Own,Unknown,Unknown,894,10,Education,Middle-Aged,Low Exposure
+28,Male,2,Free,Little,Unknown,3343,15,Furniture/Equipment,Young Adult,Medium Exposure
+29,Female,2,Own,Little,Little,3959,15,Car,Young Adult,Medium Exposure
+26,Male,2,Rent,Moderate,Unknown,3577,9,Car,Young Adult,Medium Exposure
+27,Male,2,Own,Rich,Unknown,5804,24,Car,Young Adult,High Exposure
+28,Male,2,Own,Little,Unknown,2169,18,Business,Young Adult,Medium Exposure
+35,Female,2,Own,Little,Little,2439,24,Radio/Tv,Middle-Aged,Medium Exposure
+32,Male,1,Own,Rich,Unknown,4526,27,Furniture/Equipment,Middle-Aged,High Exposure
+25,Male,1,Rent,Little,Unknown,2210,10,Furniture/Equipment,Young Adult,Medium Exposure
+20,Female,2,Rent,Quite Rich,Unknown,2221,15,Furniture/Equipment,Young Adult,Medium Exposure
+27,Female,2,Own,Little,Little,2389,18,Radio/Tv,Young Adult,Medium Exposure
+42,Male,2,Own,Little,Unknown,3331,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+37,Male,2,Own,Unknown,Unknown,7409,36,Business,Middle-Aged,High Exposure
+24,Female,2,Rent,Little,Little,652,12,Furniture/Equipment,Young Adult,Low Exposure
+40,Female,2,Own,Quite Rich,Unknown,7678,36,Furniture/Equipment,Middle-Aged,High Exposure
+46,Male,2,Own,Little,Rich,1343,6,Car,Middle-Aged,Low Exposure
+26,Male,2,Own,Moderate,Little,1382,24,Business,Young Adult,Low Exposure
+24,Female,2,Own,Unknown,Unknown,874,15,Domestic Appliances,Young Adult,Low Exposure
+29,Male,1,Own,Little,Little,3590,12,Furniture/Equipment,Young Adult,Medium Exposure
+40,Female,2,Own,Rich,Moderate,1322,11,Car,Middle-Aged,Low Exposure
+36,Male,3,Free,Little,Little,1940,18,Radio/Tv,Middle-Aged,Medium Exposure
+28,Male,2,Own,Little,Unknown,3595,36,Radio/Tv,Young Adult,Medium Exposure
+27,Male,3,Free,Little,Little,1422,9,Car,Young Adult,Low Exposure
+36,Male,2,Own,Unknown,Unknown,6742,30,Radio/Tv,Middle-Aged,High Exposure
+38,Male,3,Own,Little,Unknown,7814,24,Car,Middle-Aged,High Exposure
+48,Male,2,Free,Unknown,Unknown,9277,24,Car,Middle-Aged,High Exposure
+36,Male,2,Own,Unknown,Moderate,2181,30,Car,Middle-Aged,Medium Exposure
+65,Female,0,Own,Little,Unknown,1098,18,Radio/Tv,Senior,Low Exposure
+43,Male,2,Own,Little,Moderate,4057,24,Furniture/Equipment,Middle-Aged,High Exposure
+53,Female,2,Own,Little,Little,795,12,Education,Senior,Low Exposure
+34,Male,2,Own,Unknown,Moderate,2825,24,Business,Middle-Aged,Medium Exposure
+23,Male,2,Own,Little,Moderate,15672,48,Business,Young Adult,High Exposure
+34,Male,3,Own,Little,Unknown,6614,36,Car,Middle-Aged,High Exposure
+40,Male,2,Rent,Unknown,Unknown,7824,28,Car,Middle-Aged,High Exposure
+43,Male,3,Own,Little,Little,2442,27,Business,Middle-Aged,Medium Exposure
+46,Male,2,Own,Little,Unknown,1829,15,Radio/Tv,Middle-Aged,Medium Exposure
+38,Male,1,Own,Little,Little,2171,12,Car,Middle-Aged,Medium Exposure
+34,Male,2,Own,Little,Moderate,5800,36,Car,Middle-Aged,High Exposure
+29,Male,2,Own,Unknown,Unknown,1169,18,Radio/Tv,Young Adult,Low Exposure
+31,Male,3,Own,Unknown,Unknown,8947,36,Car,Middle-Aged,High Exposure
+28,Female,3,Rent,Little,Little,2606,21,Radio/Tv,Young Adult,Medium Exposure
+35,Female,2,Own,Rich,Unknown,1592,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+33,Female,1,Rent,Unknown,Unknown,2186,15,Furniture/Equipment,Middle-Aged,Medium Exposure
+42,Male,2,Own,Little,Little,4153,18,Furniture/Equipment,Middle-Aged,High Exposure
+43,Male,2,Rent,Little,Little,2625,16,Car,Middle-Aged,Medium Exposure
+44,Male,2,Own,Unknown,Unknown,3485,20,Car,Middle-Aged,Medium Exposure
+42,Male,2,Free,Unknown,Unknown,10477,36,Car,Middle-Aged,High Exposure
+40,Male,2,Rent,Unknown,Unknown,1386,15,Radio/Tv,Middle-Aged,Low Exposure
+36,Male,3,Own,Little,Unknown,1278,24,Radio/Tv,Middle-Aged,Low Exposure
+20,Male,3,Rent,Little,Little,1107,12,Radio/Tv,Young Adult,Low Exposure
+24,Male,1,Own,Unknown,Little,3763,21,Car,Young Adult,Medium Exposure
+27,Male,2,Own,Unknown,Moderate,3711,36,Education,Young Adult,Medium Exposure
+46,Female,1,Own,Little,Unknown,3594,15,Car,Middle-Aged,Medium Exposure
+33,Female,1,Own,Unknown,Moderate,3195,9,Car,Middle-Aged,Medium Exposure
+34,Female,2,Own,Little,Unknown,4454,36,Radio/Tv,Middle-Aged,High Exposure
+25,Female,1,Own,Little,Moderate,4736,24,Furniture/Equipment,Young Adult,High Exposure
+25,Female,2,Own,Unknown,Moderate,2991,30,Radio/Tv,Young Adult,Medium Exposure
+28,Male,2,Own,Rich,Unknown,2142,11,Business,Young Adult,Medium Exposure
+31,Male,2,Rent,Little,Little,3161,24,Business,Middle-Aged,Medium Exposure
+32,Female,3,Own,Little,Moderate,18424,48,Vacation/Others,Middle-Aged,High Exposure
+32,Male,2,Own,Moderate,Unknown,2848,10,Car,Middle-Aged,Medium Exposure
+68,Male,3,Own,Little,Little,14896,6,Car,Senior,High Exposure
+33,Male,2,Own,Moderate,Little,2359,24,Furniture/Equipment,Middle-Aged,Medium Exposure
+39,Male,3,Rent,Little,Little,3345,24,Furniture/Equipment,Middle-Aged,Medium Exposure
+28,Female,2,Own,Little,Unknown,1817,18,Furniture/Equipment,Young Adult,Medium Exposure
+37,Male,3,Own,Quite Rich,Unknown,12749,48,Radio/Tv,Middle-Aged,High Exposure
+22,Female,2,Rent,Little,Little,1366,9,Radio/Tv,Young Adult,Low Exposure
+30,Male,2,Rent,Little,Moderate,2002,12,Car,Young Adult,Medium Exposure
+55,Male,2,Own,Little,Little,6872,24,Furniture/Equipment,Senior,High Exposure
+46,Male,2,Own,Little,Little,697,12,Car,Middle-Aged,Low Exposure
+21,Female,2,Rent,Little,Little,1049,18,Furniture/Equipment,Young Adult,Low Exposure
+39,Male,2,Free,Little,Little,10297,48,Car,Middle-Aged,High Exposure
+58,Male,2,Own,Unknown,Unknown,1867,30,Radio/Tv,Senior,Medium Exposure
+43,Male,1,Own,Little,Little,1344,12,Car,Middle-Aged,Low Exposure
+24,Male,1,Own,Little,Little,1747,24,Furniture/Equipment,Young Adult,Medium Exposure
+22,Female,2,Own,Little,Moderate,1670,9,Radio/Tv,Young Adult,Medium Exposure
+30,Male,2,Own,Little,Unknown,1224,9,Car,Young Adult,Low Exposure
+42,Male,2,Own,Quite Rich,Unknown,522,12,Radio/Tv,Middle-Aged,Low Exposure
+23,Female,2,Own,Little,Little,1498,12,Radio/Tv,Young Adult,Low Exposure
+30,Male,3,Own,Moderate,Moderate,1919,30,Radio/Tv,Young Adult,Medium Exposure
+28,Female,1,Own,Little,Rich,745,9,Radio/Tv,Young Adult,Low Exposure
+30,Male,3,Rent,Little,Moderate,2063,6,Radio/Tv,Young Adult,Medium Exposure
+42,Male,2,Free,Little,Moderate,6288,60,Education,Middle-Aged,High Exposure
+46,Male,3,Own,Unknown,Unknown,6842,24,Car,Middle-Aged,High Exposure
+45,Male,3,Own,Unknown,Unknown,3527,12,Car,Middle-Aged,Medium Exposure
+31,Male,1,Own,Little,Unknown,1546,10,Car,Middle-Aged,Medium Exposure
+31,Male,2,Own,Unknown,Unknown,929,24,Furniture/Equipment,Middle-Aged,Low Exposure
+42,Male,1,Own,Little,Unknown,1455,4,Car,Middle-Aged,Low Exposure
+46,Female,2,Rent,Little,Little,1845,15,Furniture/Equipment,Middle-Aged,Medium Exposure
+30,Female,2,Own,Quite Rich,Moderate,8358,48,Car,Young Adult,High Exposure
+30,Male,2,Free,Quite Rich,Little,3349,24,Furniture/Equipment,Young Adult,Medium Exposure
+38,Male,3,Own,Unknown,Unknown,2859,12,Car,Middle-Aged,Medium Exposure
+43,Male,1,Own,Little,Unknown,1533,18,Furniture/Equipment,Middle-Aged,Medium Exposure
+31,Male,2,Own,Moderate,Unknown,3621,24,Radio/Tv,Middle-Aged,Medium Exposure
+40,Male,0,Own,Little,Moderate,3590,18,Business,Middle-Aged,Medium Exposure
+24,Male,2,Own,Little,Little,2145,36,Business,Young Adult,Medium Exposure
+28,Female,2,Rent,Quite Rich,Moderate,4113,24,Car,Young Adult,High Exposure
+26,Female,3,Own,Little,Unknown,10974,36,Furniture/Equipment,Young Adult,High Exposure
+29,Female,2,Own,Little,Little,1893,12,Car,Young Adult,Medium Exposure
+57,Female,3,Rent,Rich,Little,1231,24,Radio/Tv,Senior,Low Exposure
+49,Male,1,Own,Unknown,Rich,3656,30,Radio/Tv,Middle-Aged,Medium Exposure
+37,Male,1,Own,Little,Moderate,1154,9,Radio/Tv,Middle-Aged,Low Exposure
+45,Male,1,Own,Little,Little,4006,28,Car,Middle-Aged,High Exposure
+30,Male,2,Free,Moderate,Moderate,3069,24,Furniture/Equipment,Young Adult,Medium Exposure
+30,Male,2,Rent,Little,Unknown,1740,6,Radio/Tv,Young Adult,Medium Exposure
+47,Male,2,Own,Little,Moderate,2353,21,Car,Middle-Aged,Medium Exposure
+29,Male,2,Own,Unknown,Unknown,3556,15,Car,Young Adult,Medium Exposure
+35,Male,2,Own,Quite Rich,Unknown,2397,24,Radio/Tv,Middle-Aged,Medium Exposure
+22,Male,1,Own,Little,Moderate,454,6,Repairs,Young Adult,Low Exposure
+26,Female,2,Own,Unknown,Moderate,1715,30,Radio/Tv,Young Adult,Medium Exposure
+23,Male,1,Own,Quite Rich,Moderate,2520,27,Radio/Tv,Young Adult,Medium Exposure
+54,Female,3,Rent,Little,Unknown,3568,15,Radio/Tv,Senior,Medium Exposure
+29,Male,2,Rent,Unknown,Unknown,7166,42,Radio/Tv,Young Adult,High Exposure
+40,Male,1,Own,Little,Little,3939,11,Car,Middle-Aged,Medium Exposure
+22,Male,2,Own,Moderate,Moderate,1514,15,Repairs,Young Adult,Medium Exposure
+43,Male,1,Own,Little,Unknown,7393,24,Car,Middle-Aged,High Exposure
+29,Female,0,Rent,Little,Little,1193,24,Car,Young Adult,Low Exposure
+36,Male,2,Rent,Little,Little,7297,60,Business,Middle-Aged,High Exposure
+33,Female,2,Own,Little,Unknown,2831,30,Radio/Tv,Middle-Aged,Medium Exposure
+57,Female,1,Own,Quite Rich,Rich,1258,24,Radio/Tv,Senior,Low Exposure
+64,Female,2,Own,Little,Moderate,753,6,Radio/Tv,Senior,Low Exposure
+42,Male,2,Own,Unknown,Moderate,2427,18,Business,Middle-Aged,Medium Exposure
+47,Male,1,Own,Little,Unknown,2538,24,Car,Middle-Aged,Medium Exposure
+25,Male,2,Rent,Moderate,Moderate,1264,15,Car,Young Adult,Low Exposure
+49,Male,2,Own,Little,Moderate,8386,30,Furniture/Equipment,Middle-Aged,High Exposure
+33,Male,3,Rent,Little,Unknown,4844,48,Business,Middle-Aged,High Exposure
+28,Female,3,Own,Moderate,Rich,2923,21,Car,Young Adult,Medium Exposure
+26,Male,2,Own,Little,Little,8229,36,Car,Young Adult,High Exposure
+30,Male,1,Own,Little,Unknown,2028,24,Furniture/Equipment,Young Adult,Medium Exposure
+25,Female,2,Rent,Little,Little,1433,15,Furniture/Equipment,Young Adult,Low Exposure
+33,Male,2,Own,Little,Rich,6289,42,Business,Middle-Aged,High Exposure
+64,Female,2,Own,Moderate,Unknown,1409,13,Radio/Tv,Senior,Low Exposure
+29,Male,3,Free,Little,Little,6579,24,Car,Young Adult,High Exposure
+48,Male,1,Own,Little,Moderate,1743,24,Radio/Tv,Middle-Aged,Medium Exposure
+37,Male,1,Own,Unknown,Unknown,3565,12,Education,Middle-Aged,Medium Exposure
+34,Male,1,Own,Moderate,Unknown,1569,15,Radio/Tv,Middle-Aged,Medium Exposure
+23,Male,1,Rent,Unknown,Little,1936,18,Radio/Tv,Young Adult,Medium Exposure
+30,Male,3,Own,Little,Little,3959,36,Furniture/Equipment,Young Adult,Medium Exposure
+50,Male,2,Own,Unknown,Unknown,2390,12,Car,Middle-Aged,Medium Exposure
+31,Female,1,Own,Little,Unknown,1736,12,Furniture/Equipment,Middle-Aged,Medium Exposure
+40,Male,3,Own,Little,Little,3857,30,Car,Middle-Aged,Medium Exposure
+38,Male,2,Own,Little,Unknown,804,12,Radio/Tv,Middle-Aged,Low Exposure
+23,Male,2,Free,Little,Little,1845,45,Radio/Tv,Young Adult,Medium Exposure
+27,Male,2,Own,Moderate,Moderate,4576,45,Car,Young Adult,High Exposure
